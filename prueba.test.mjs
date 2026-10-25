@@ -32,5 +32,5 @@ test('el .ics no publica datos privados y respeta el largo de línea', () => {
   const ics = generarIcs(plan, dias, new Date('2026-10-25T00:00:00Z'));
   assert.ok(!/kcal|calor[ií]a|peso:|\bkg\b/i.test(ics));
   assert.ok(ics.split('\r\n').every((l) => Buffer.byteLength(l, 'utf8') <= 75));
-  assert.equal((ics.match(/BEGIN:VEVENT/g) || []).length, 96 + 12 + 8);
+  assert.equal((ics.match(/BEGIN:VEVENT/g) || []).length, 96 + 12 + 9);
 });

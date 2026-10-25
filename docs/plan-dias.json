@@ -6,7 +6,7 @@
       "fecha": "2026-10-26",
       "semana": 1,
       "diaSemana": "Lunes",
-      "fase": "Déficit",
+      "fase": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)",
       "pausa": false,
       "tipoDia": "gimnasio",
       "sesiones": [
@@ -19,14 +19,14 @@
         }
       ],
       "notas": [
-        "Bioimpedancia de partida"
+        "Bioimpedancia de partida · empieza la semana de aprendizaje"
       ]
     },
     {
       "fecha": "2026-10-27",
       "semana": 1,
       "diaSemana": "Martes",
-      "fase": "Déficit",
+      "fase": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)",
       "pausa": false,
       "tipoDia": "doble",
       "sesiones": [
@@ -53,7 +53,7 @@
       "fecha": "2026-10-28",
       "semana": 1,
       "diaSemana": "Miércoles",
-      "fase": "Déficit",
+      "fase": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)",
       "pausa": false,
       "tipoDia": "gimnasio",
       "sesiones": [
@@ -71,7 +71,7 @@
       "fecha": "2026-10-29",
       "semana": 1,
       "diaSemana": "Jueves",
-      "fase": "Déficit",
+      "fase": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)",
       "pausa": false,
       "tipoDia": "doble",
       "sesiones": [
@@ -98,7 +98,7 @@
       "fecha": "2026-10-30",
       "semana": 1,
       "diaSemana": "Viernes",
-      "fase": "Déficit",
+      "fase": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)",
       "pausa": false,
       "tipoDia": "gimnasio",
       "sesiones": [
@@ -116,7 +116,7 @@
       "fecha": "2026-10-31",
       "semana": 1,
       "diaSemana": "Sábado",
-      "fase": "Déficit",
+      "fase": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)",
       "pausa": false,
       "tipoDia": "descanso",
       "sesiones": [
@@ -138,11 +138,12 @@
       "fecha": "2026-11-01",
       "semana": 1,
       "diaSemana": "Domingo",
-      "fase": "Déficit",
+      "fase": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)",
       "pausa": false,
       "tipoDia": "descanso",
       "sesiones": [],
       "notas": [
+        "Fin del aprendizaje: el menú base se arma con tus comidas reales",
         "Revisión semanal en el panel (19:00)."
       ]
     },
