@@ -56,10 +56,10 @@ export function expandir(plan) {
       const g = plan.gimnasio;
       sesiones.push({
         tipo: 'gimnasio',
-        nombre: `Gimnasio — ${g.grupos[dow]}`,
+        nombre: 'Gimnasio',
         hora: g.hora,
         duracionMin: g.duracionMin,
-        detalle: pausa ? g.notaPausa : g.nota,
+        detalle: g.nota,
       });
     }
 

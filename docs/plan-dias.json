@@ -12,10 +12,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pecho",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": [
@@ -41,10 +41,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pierna",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -59,10 +59,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Espalda",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -86,10 +86,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Brazos",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -104,10 +104,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Hombros",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -157,10 +157,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pecho",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -184,10 +184,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pierna",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -202,10 +202,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Espalda",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -229,10 +229,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Brazos",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -247,10 +247,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Hombros",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -299,10 +299,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pecho",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -326,10 +326,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pierna",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -344,10 +344,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Espalda",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -371,10 +371,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Brazos",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -389,10 +389,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Hombros",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -441,10 +441,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pecho",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -468,10 +468,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pierna",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -486,10 +486,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Espalda",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -513,10 +513,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Brazos",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -531,10 +531,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Hombros",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -584,10 +584,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pecho",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -611,10 +611,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pierna",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -629,10 +629,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Espalda",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -656,10 +656,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Brazos",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -674,10 +674,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Hombros",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -726,10 +726,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pecho",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -753,10 +753,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pierna",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -771,10 +771,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Espalda",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -798,10 +798,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Brazos",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -816,10 +816,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Hombros",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -862,16 +862,16 @@
       "fecha": "2026-12-07",
       "semana": 7,
       "diaSemana": "Lunes",
-      "fase": "Pausa: mantención + descarga",
+      "fase": "Pausa: mantención (más comida)",
       "pausa": true,
       "tipoDia": "gimnasio",
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pecho",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Semana de descarga: -40 % de series, mismas cargas, RIR 3."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -880,7 +880,7 @@
       "fecha": "2026-12-08",
       "semana": 7,
       "diaSemana": "Martes",
-      "fase": "Pausa: mantención + descarga",
+      "fase": "Pausa: mantención (más comida)",
       "pausa": true,
       "tipoDia": "doble",
       "sesiones": [
@@ -895,10 +895,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pierna",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Semana de descarga: -40 % de series, mismas cargas, RIR 3."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -907,16 +907,16 @@
       "fecha": "2026-12-09",
       "semana": 7,
       "diaSemana": "Miércoles",
-      "fase": "Pausa: mantención + descarga",
+      "fase": "Pausa: mantención (más comida)",
       "pausa": true,
       "tipoDia": "gimnasio",
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Espalda",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Semana de descarga: -40 % de series, mismas cargas, RIR 3."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -925,7 +925,7 @@
       "fecha": "2026-12-10",
       "semana": 7,
       "diaSemana": "Jueves",
-      "fase": "Pausa: mantención + descarga",
+      "fase": "Pausa: mantención (más comida)",
       "pausa": true,
       "tipoDia": "doble",
       "sesiones": [
@@ -940,10 +940,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Brazos",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Semana de descarga: -40 % de series, mismas cargas, RIR 3."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -952,16 +952,16 @@
       "fecha": "2026-12-11",
       "semana": 7,
       "diaSemana": "Viernes",
-      "fase": "Pausa: mantención + descarga",
+      "fase": "Pausa: mantención (más comida)",
       "pausa": true,
       "tipoDia": "gimnasio",
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Hombros",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Semana de descarga: -40 % de series, mismas cargas, RIR 3."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -970,7 +970,7 @@
       "fecha": "2026-12-12",
       "semana": 7,
       "diaSemana": "Sábado",
-      "fase": "Pausa: mantención + descarga",
+      "fase": "Pausa: mantención (más comida)",
       "pausa": true,
       "tipoDia": "descanso",
       "sesiones": [
@@ -992,7 +992,7 @@
       "fecha": "2026-12-13",
       "semana": 7,
       "diaSemana": "Domingo",
-      "fase": "Pausa: mantención + descarga",
+      "fase": "Pausa: mantención (más comida)",
       "pausa": true,
       "tipoDia": "descanso",
       "sesiones": [],
@@ -1010,10 +1010,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pecho",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1037,10 +1037,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pierna",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1055,10 +1055,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Espalda",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1082,10 +1082,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Brazos",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1100,10 +1100,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Hombros",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1153,10 +1153,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pecho",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1180,10 +1180,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pierna",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1198,10 +1198,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Espalda",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1225,10 +1225,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Brazos",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": [
@@ -1245,10 +1245,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Hombros",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": [
@@ -1299,10 +1299,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pecho",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1326,10 +1326,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pierna",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1344,10 +1344,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Espalda",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1371,10 +1371,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Brazos",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": [
@@ -1391,10 +1391,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Hombros",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": [
@@ -1445,10 +1445,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pecho",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1472,10 +1472,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pierna",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1490,10 +1490,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Espalda",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1517,10 +1517,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Brazos",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1535,10 +1535,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Hombros",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1587,10 +1587,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pecho",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1614,10 +1614,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Pierna",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1632,10 +1632,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Espalda",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1659,10 +1659,10 @@
         },
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Brazos",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []
@@ -1677,10 +1677,10 @@
       "sesiones": [
         {
           "tipo": "gimnasio",
-          "nombre": "Gimnasio — Hombros",
+          "nombre": "Gimnasio",
           "hora": "20:00",
           "duracionMin": 75,
-          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
         }
       ],
       "notas": []

@@ -7,18 +7,18 @@ X-WR-CALNAME:Plan de entrenamiento y alimentación — Bloque 1
 X-WR-TIMEZONE:America/Santiago
 BEGIN:VEVENT
 UID:20261026-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261026T200000
 DTEND;TZID=America/Santiago:20261026T211500
-SUMMARY:Gimnasio — Pecho
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 1 · Aprendizaje: come como siempre y anota tod
- o (el menú es solo referencia)
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 1 · Aprendizaje: come como siempre y anota todo 
+ (el menú es solo referencia)
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261026-hito@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:InBody de partida · empieza la semana de aprendizaje
@@ -26,7 +26,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261027-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261027T060000
 DTEND;TZID=America/Santiago:20261027T070000
 SUMMARY:Natación aeróbica + técnica · 2800 m
@@ -37,29 +37,29 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261027-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261027T200000
 DTEND;TZID=America/Santiago:20261027T211500
-SUMMARY:Gimnasio — Pierna
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 1 · Aprendizaje: come como siempre y anota tod
- o (el menú es solo referencia)
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 1 · Aprendizaje: come como siempre y anota todo 
+ (el menú es solo referencia)
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261028-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261028T200000
 DTEND;TZID=America/Santiago:20261028T211500
-SUMMARY:Gimnasio — Espalda
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 1 · Aprendizaje: come como siempre y anota tod
- o (el menú es solo referencia)
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 1 · Aprendizaje: come como siempre y anota todo 
+ (el menú es solo referencia)
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261029-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261029T060000
 DTEND;TZID=America/Santiago:20261029T070000
 SUMMARY:Natación umbral · 2800 m
@@ -69,29 +69,29 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261029-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261029T200000
 DTEND;TZID=America/Santiago:20261029T211500
-SUMMARY:Gimnasio — Brazos
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 1 · Aprendizaje: come como siempre y anota tod
- o (el menú es solo referencia)
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 1 · Aprendizaje: come como siempre y anota todo 
+ (el menú es solo referencia)
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261030-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261030T200000
 DTEND;TZID=America/Santiago:20261030T211500
-SUMMARY:Gimnasio — Hombros
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 1 · Aprendizaje: come como siempre y anota tod
- o (el menú es solo referencia)
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 1 · Aprendizaje: come como siempre y anota todo 
+ (el menú es solo referencia)
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261031-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261031T090000
 DTEND;TZID=America/Santiago:20261031T100000
 SUMMARY:(Opcional) Natación suave (opcional) · 2000 m
@@ -102,7 +102,7 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261101-hito@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Fin del aprendizaje: el menú base se arma con tus comidas reales
@@ -110,7 +110,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261101-revision@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261101T190000
 DTEND;TZID=America/Santiago:20261101T191500
 SUMMARY:Revisión semanal (semana 1)
@@ -119,17 +119,17 @@ DESCRIPTION:Peso promedio\, sesiones y menú cumplidos. El panel propone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:20261102-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261102T200000
 DTEND;TZID=America/Santiago:20261102T211500
-SUMMARY:Gimnasio — Pecho
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 2 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 2 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261103-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261103T060000
 DTEND;TZID=America/Santiago:20261103T070000
 SUMMARY:Natación aeróbica + técnica · 2800 m
@@ -139,27 +139,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261103-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261103T200000
 DTEND;TZID=America/Santiago:20261103T211500
-SUMMARY:Gimnasio — Pierna
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 2 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 2 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261104-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261104T200000
 DTEND;TZID=America/Santiago:20261104T211500
-SUMMARY:Gimnasio — Espalda
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 2 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 2 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261105-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261105T060000
 DTEND;TZID=America/Santiago:20261105T070000
 SUMMARY:Natación umbral · 2800 m
@@ -169,27 +169,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261105-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261105T200000
 DTEND;TZID=America/Santiago:20261105T211500
-SUMMARY:Gimnasio — Brazos
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 2 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 2 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261106-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261106T200000
 DTEND;TZID=America/Santiago:20261106T211500
-SUMMARY:Gimnasio — Hombros
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 2 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 2 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261107-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261107T090000
 DTEND;TZID=America/Santiago:20261107T100000
 SUMMARY:(Opcional) Natación suave (opcional) · 2000 m
@@ -199,7 +199,7 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261108-revision@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261108T190000
 DTEND;TZID=America/Santiago:20261108T191500
 SUMMARY:Revisión semanal (semana 2)
@@ -208,17 +208,17 @@ DESCRIPTION:Peso promedio\, sesiones y menú cumplidos. El panel propone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:20261109-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261109T200000
 DTEND;TZID=America/Santiago:20261109T211500
-SUMMARY:Gimnasio — Pecho
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 3 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 3 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261110-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261110T060000
 DTEND;TZID=America/Santiago:20261110T070000
 SUMMARY:Natación aeróbica + técnica · 2800 m
@@ -228,27 +228,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261110-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261110T200000
 DTEND;TZID=America/Santiago:20261110T211500
-SUMMARY:Gimnasio — Pierna
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 3 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 3 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261111-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261111T200000
 DTEND;TZID=America/Santiago:20261111T211500
-SUMMARY:Gimnasio — Espalda
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 3 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 3 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261112-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261112T060000
 DTEND;TZID=America/Santiago:20261112T070000
 SUMMARY:Natación umbral · 2800 m
@@ -258,27 +258,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261112-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261112T200000
 DTEND;TZID=America/Santiago:20261112T211500
-SUMMARY:Gimnasio — Brazos
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 3 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 3 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261113-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261113T200000
 DTEND;TZID=America/Santiago:20261113T211500
-SUMMARY:Gimnasio — Hombros
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 3 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 3 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261114-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261114T090000
 DTEND;TZID=America/Santiago:20261114T100000
 SUMMARY:(Opcional) Natación suave (opcional) · 2000 m
@@ -288,7 +288,7 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261115-revision@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261115T190000
 DTEND;TZID=America/Santiago:20261115T191500
 SUMMARY:Revisión semanal (semana 3)
@@ -297,17 +297,17 @@ DESCRIPTION:Peso promedio\, sesiones y menú cumplidos. El panel propone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:20261116-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261116T200000
 DTEND;TZID=America/Santiago:20261116T211500
-SUMMARY:Gimnasio — Pecho
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 4 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 4 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261117-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261117T060000
 DTEND;TZID=America/Santiago:20261117T070000
 SUMMARY:Natación aeróbica + técnica · 3000 m
@@ -317,27 +317,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261117-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261117T200000
 DTEND;TZID=America/Santiago:20261117T211500
-SUMMARY:Gimnasio — Pierna
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 4 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 4 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261118-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261118T200000
 DTEND;TZID=America/Santiago:20261118T211500
-SUMMARY:Gimnasio — Espalda
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 4 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 4 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261119-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261119T060000
 DTEND;TZID=America/Santiago:20261119T070000
 SUMMARY:Natación umbral · 3000 m
@@ -346,27 +346,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261119-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261119T200000
 DTEND;TZID=America/Santiago:20261119T211500
-SUMMARY:Gimnasio — Brazos
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 4 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 4 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261120-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261120T200000
 DTEND;TZID=America/Santiago:20261120T211500
-SUMMARY:Gimnasio — Hombros
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 4 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 4 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261121-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261121T090000
 DTEND;TZID=America/Santiago:20261121T100000
 SUMMARY:(Opcional) Natación suave (opcional) · 2000 m
@@ -376,7 +376,7 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261122-hito@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Control 4 semanas: fotos e InBody
@@ -384,7 +384,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261122-revision@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261122T190000
 DTEND;TZID=America/Santiago:20261122T191500
 SUMMARY:Revisión semanal (semana 4)
@@ -393,17 +393,17 @@ DESCRIPTION:Peso promedio\, sesiones y menú cumplidos. El panel propone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:20261123-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261123T200000
 DTEND;TZID=America/Santiago:20261123T211500
-SUMMARY:Gimnasio — Pecho
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 5 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 5 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261124-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261124T060000
 DTEND;TZID=America/Santiago:20261124T070000
 SUMMARY:Natación aeróbica + técnica · 3000 m
@@ -413,27 +413,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261124-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261124T200000
 DTEND;TZID=America/Santiago:20261124T211500
-SUMMARY:Gimnasio — Pierna
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 5 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 5 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261125-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261125T200000
 DTEND;TZID=America/Santiago:20261125T211500
-SUMMARY:Gimnasio — Espalda
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 5 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 5 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261126-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261126T060000
 DTEND;TZID=America/Santiago:20261126T070000
 SUMMARY:Natación umbral · 3000 m
@@ -442,27 +442,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261126-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261126T200000
 DTEND;TZID=America/Santiago:20261126T211500
-SUMMARY:Gimnasio — Brazos
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 5 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 5 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261127-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261127T200000
 DTEND;TZID=America/Santiago:20261127T211500
-SUMMARY:Gimnasio — Hombros
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 5 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 5 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261128-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261128T090000
 DTEND;TZID=America/Santiago:20261128T100000
 SUMMARY:(Opcional) Natación suave (opcional) · 2000 m
@@ -472,7 +472,7 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261129-revision@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261129T190000
 DTEND;TZID=America/Santiago:20261129T191500
 SUMMARY:Revisión semanal (semana 5)
@@ -481,17 +481,17 @@ DESCRIPTION:Peso promedio\, sesiones y menú cumplidos. El panel propone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:20261130-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261130T200000
 DTEND;TZID=America/Santiago:20261130T211500
-SUMMARY:Gimnasio — Pecho
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 6 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 6 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261201-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261201T060000
 DTEND;TZID=America/Santiago:20261201T070000
 SUMMARY:Natación aeróbica + técnica · 3000 m
@@ -501,27 +501,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261201-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261201T200000
 DTEND;TZID=America/Santiago:20261201T211500
-SUMMARY:Gimnasio — Pierna
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 6 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 6 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261202-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261202T200000
 DTEND;TZID=America/Santiago:20261202T211500
-SUMMARY:Gimnasio — Espalda
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 6 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 6 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261203-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261203T060000
 DTEND;TZID=America/Santiago:20261203T070000
 SUMMARY:Natación umbral · 3000 m
@@ -530,27 +530,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261203-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261203T200000
 DTEND;TZID=America/Santiago:20261203T211500
-SUMMARY:Gimnasio — Brazos
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 6 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 6 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261204-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261204T200000
 DTEND;TZID=America/Santiago:20261204T211500
-SUMMARY:Gimnasio — Hombros
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 6 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 6 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261205-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261205T090000
 DTEND;TZID=America/Santiago:20261205T100000
 SUMMARY:(Opcional) Natación suave (opcional) · 2000 m
@@ -560,7 +560,7 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261206-revision@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261206T190000
 DTEND;TZID=America/Santiago:20261206T191500
 SUMMARY:Revisión semanal (semana 6)
@@ -569,87 +569,92 @@ DESCRIPTION:Peso promedio\, sesiones y menú cumplidos. El panel propone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:20261207-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261207T200000
 DTEND;TZID=America/Santiago:20261207T211500
-SUMMARY:Gimnasio — Pecho
-DESCRIPTION:Semana de descarga: -40 % de series\, mismas cargas\, RIR 3.\nS
- emana de pausa.\nSemana 7 · Pausa: mantención + descarga
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana de pausa.\nSemana 7 · Pausa: mantención (más c
+ omida)
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261208-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261208T060000
 DTEND;TZID=America/Santiago:20261208T070000
 SUMMARY:Natación aeróbica + técnica · 1800 m
 DESCRIPTION:400 calentamiento · 4×100 técnica · 3×300 Z2 suave · 100 
- suelto\nSemana de pausa.\nSemana 7 · Pausa: mantención + descarga
+ suelto\nSemana de pausa.\nSemana 7 · Pausa: mantención (más comida)
 CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261208-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261208T200000
 DTEND;TZID=America/Santiago:20261208T211500
-SUMMARY:Gimnasio — Pierna
-DESCRIPTION:Semana de descarga: -40 % de series\, mismas cargas\, RIR 3.\nS
- emana de pausa.\nSemana 7 · Pausa: mantención + descarga
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana de pausa.\nSemana 7 · Pausa: mantención (más c
+ omida)
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261209-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261209T200000
 DTEND;TZID=America/Santiago:20261209T211500
-SUMMARY:Gimnasio — Espalda
-DESCRIPTION:Semana de descarga: -40 % de series\, mismas cargas\, RIR 3.\nS
- emana de pausa.\nSemana 7 · Pausa: mantención + descarga
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana de pausa.\nSemana 7 · Pausa: mantención (más c
+ omida)
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261210-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261210T060000
 DTEND;TZID=America/Santiago:20261210T070000
 SUMMARY:Natación umbral · 1800 m
 DESCRIPTION:Series cortas suaves\, sin umbral\nSemana de pausa.\nSemana 7 
- · Pausa: mantención + descarga
+ · Pausa: mantención (más comida)
 CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261210-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261210T200000
 DTEND;TZID=America/Santiago:20261210T211500
-SUMMARY:Gimnasio — Brazos
-DESCRIPTION:Semana de descarga: -40 % de series\, mismas cargas\, RIR 3.\nS
- emana de pausa.\nSemana 7 · Pausa: mantención + descarga
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana de pausa.\nSemana 7 · Pausa: mantención (más c
+ omida)
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261211-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261211T200000
 DTEND;TZID=America/Santiago:20261211T211500
-SUMMARY:Gimnasio — Hombros
-DESCRIPTION:Semana de descarga: -40 % de series\, mismas cargas\, RIR 3.\nS
- emana de pausa.\nSemana 7 · Pausa: mantención + descarga
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana de pausa.\nSemana 7 · Pausa: mantención (más c
+ omida)
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261212-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261212T090000
 DTEND;TZID=America/Santiago:20261212T100000
 SUMMARY:(Opcional) Natación suave (opcional) · 1500 m
 DESCRIPTION:Técnica y Z2. Primera palanca si el peso se estanca.\nSemana d
- e pausa.\nSemana 7 · Pausa: mantención + descarga
+ e pausa.\nSemana 7 · Pausa: mantención (más comida)
 CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261213-revision@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261213T190000
 DTEND;TZID=America/Santiago:20261213T191500
 SUMMARY:Revisión semanal (semana 7)
@@ -658,17 +663,17 @@ DESCRIPTION:Peso promedio\, sesiones y menú cumplidos. El panel propone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:20261214-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261214T200000
 DTEND;TZID=America/Santiago:20261214T211500
-SUMMARY:Gimnasio — Pecho
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 8 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 8 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261215-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261215T060000
 DTEND;TZID=America/Santiago:20261215T070000
 SUMMARY:Natación aeróbica + técnica · 3200 m
@@ -678,27 +683,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261215-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261215T200000
 DTEND;TZID=America/Santiago:20261215T211500
-SUMMARY:Gimnasio — Pierna
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 8 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 8 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261216-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261216T200000
 DTEND;TZID=America/Santiago:20261216T211500
-SUMMARY:Gimnasio — Espalda
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 8 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 8 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261217-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261217T060000
 DTEND;TZID=America/Santiago:20261217T070000
 SUMMARY:Natación umbral · 3200 m
@@ -707,27 +712,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261217-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261217T200000
 DTEND;TZID=America/Santiago:20261217T211500
-SUMMARY:Gimnasio — Brazos
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 8 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 8 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261218-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261218T200000
 DTEND;TZID=America/Santiago:20261218T211500
-SUMMARY:Gimnasio — Hombros
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 8 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 8 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261219-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261219T090000
 DTEND;TZID=America/Santiago:20261219T100000
 SUMMARY:(Opcional) Natación suave (opcional) · 2000 m
@@ -737,7 +742,7 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261220-hito@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Control 8 semanas: ¿entra la carrera? (rodilla)
@@ -745,7 +750,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261220-revision@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261220T190000
 DTEND;TZID=America/Santiago:20261220T191500
 SUMMARY:Revisión semanal (semana 8)
@@ -754,17 +759,17 @@ DESCRIPTION:Peso promedio\, sesiones y menú cumplidos. El panel propone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:20261221-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261221T200000
 DTEND;TZID=America/Santiago:20261221T211500
-SUMMARY:Gimnasio — Pecho
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 9 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 9 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261222-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261222T060000
 DTEND;TZID=America/Santiago:20261222T070000
 SUMMARY:Natación aeróbica + técnica · 3200 m
@@ -774,27 +779,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261222-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261222T200000
 DTEND;TZID=America/Santiago:20261222T211500
-SUMMARY:Gimnasio — Pierna
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 9 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 9 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261223-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261223T200000
 DTEND;TZID=America/Santiago:20261223T211500
-SUMMARY:Gimnasio — Espalda
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 9 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 9 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261224-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261224T060000
 DTEND;TZID=America/Santiago:20261224T070000
 SUMMARY:Natación umbral · 3200 m
@@ -803,17 +808,17 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261224-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261224T200000
 DTEND;TZID=America/Santiago:20261224T211500
-SUMMARY:Gimnasio — Brazos
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 9 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 9 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261224-hito@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Nochebuena: día en mantención
@@ -821,17 +826,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261225-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261225T200000
 DTEND;TZID=America/Santiago:20261225T211500
-SUMMARY:Gimnasio — Hombros
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 9 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 9 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261225-hito@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Navidad: día en mantención
@@ -839,7 +844,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261226-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261226T090000
 DTEND;TZID=America/Santiago:20261226T100000
 SUMMARY:(Opcional) Natación suave (opcional) · 2000 m
@@ -849,7 +854,7 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261227-revision@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261227T190000
 DTEND;TZID=America/Santiago:20261227T191500
 SUMMARY:Revisión semanal (semana 9)
@@ -858,17 +863,17 @@ DESCRIPTION:Peso promedio\, sesiones y menú cumplidos. El panel propone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:20261228-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261228T200000
 DTEND;TZID=America/Santiago:20261228T211500
-SUMMARY:Gimnasio — Pecho
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 10 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 10 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261229-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261229T060000
 DTEND;TZID=America/Santiago:20261229T070000
 SUMMARY:Natación aeróbica + técnica · 3200 m
@@ -878,27 +883,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261229-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261229T200000
 DTEND;TZID=America/Santiago:20261229T211500
-SUMMARY:Gimnasio — Pierna
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 10 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 10 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261230-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261230T200000
 DTEND;TZID=America/Santiago:20261230T211500
-SUMMARY:Gimnasio — Espalda
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 10 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 10 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261231-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261231T060000
 DTEND;TZID=America/Santiago:20261231T070000
 SUMMARY:Natación umbral · 3200 m
@@ -907,17 +912,17 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20261231-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20261231T200000
 DTEND;TZID=America/Santiago:20261231T211500
-SUMMARY:Gimnasio — Brazos
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 10 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 10 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20261231-hito@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Fin de año: día en mantención
@@ -925,17 +930,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20270101-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270101T200000
 DTEND;TZID=America/Santiago:20270101T211500
-SUMMARY:Gimnasio — Hombros
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 10 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 10 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20270101-hito@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Año Nuevo: día en mantención
@@ -943,7 +948,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20270102-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270102T090000
 DTEND;TZID=America/Santiago:20270102T100000
 SUMMARY:(Opcional) Natación suave (opcional) · 2000 m
@@ -953,7 +958,7 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20270103-revision@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270103T190000
 DTEND;TZID=America/Santiago:20270103T191500
 SUMMARY:Revisión semanal (semana 10)
@@ -962,17 +967,17 @@ DESCRIPTION:Peso promedio\, sesiones y menú cumplidos. El panel propone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:20270104-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270104T200000
 DTEND;TZID=America/Santiago:20270104T211500
-SUMMARY:Gimnasio — Pecho
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 11 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 11 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20270105-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270105T060000
 DTEND;TZID=America/Santiago:20270105T070000
 SUMMARY:Natación aeróbica + técnica · 3200 m
@@ -982,27 +987,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20270105-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270105T200000
 DTEND;TZID=America/Santiago:20270105T211500
-SUMMARY:Gimnasio — Pierna
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 11 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 11 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20270106-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270106T200000
 DTEND;TZID=America/Santiago:20270106T211500
-SUMMARY:Gimnasio — Espalda
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 11 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 11 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20270107-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270107T060000
 DTEND;TZID=America/Santiago:20270107T070000
 SUMMARY:Natación umbral · 3200 m
@@ -1011,27 +1016,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20270107-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270107T200000
 DTEND;TZID=America/Santiago:20270107T211500
-SUMMARY:Gimnasio — Brazos
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 11 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 11 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20270108-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270108T200000
 DTEND;TZID=America/Santiago:20270108T211500
-SUMMARY:Gimnasio — Hombros
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 11 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 11 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20270109-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270109T090000
 DTEND;TZID=America/Santiago:20270109T100000
 SUMMARY:(Opcional) Natación suave (opcional) · 2000 m
@@ -1041,7 +1046,7 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20270110-revision@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270110T190000
 DTEND;TZID=America/Santiago:20270110T191500
 SUMMARY:Revisión semanal (semana 11)
@@ -1050,17 +1055,17 @@ DESCRIPTION:Peso promedio\, sesiones y menú cumplidos. El panel propone 0
 END:VEVENT
 BEGIN:VEVENT
 UID:20270111-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270111T200000
 DTEND;TZID=America/Santiago:20270111T211500
-SUMMARY:Gimnasio — Pecho
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 12 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 12 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20270112-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270112T060000
 DTEND;TZID=America/Santiago:20270112T070000
 SUMMARY:Natación aeróbica + técnica · 3200 m
@@ -1070,27 +1075,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20270112-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270112T200000
 DTEND;TZID=America/Santiago:20270112T211500
-SUMMARY:Gimnasio — Pierna
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 12 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 12 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20270113-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270113T200000
 DTEND;TZID=America/Santiago:20270113T211500
-SUMMARY:Gimnasio — Espalda
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 12 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 12 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20270114-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270114T060000
 DTEND;TZID=America/Santiago:20270114T070000
 SUMMARY:Natación umbral · 3200 m
@@ -1099,27 +1104,27 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20270114-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270114T200000
 DTEND;TZID=America/Santiago:20270114T211500
-SUMMARY:Gimnasio — Brazos
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 12 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 12 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20270115-gimnasio@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270115T200000
 DTEND;TZID=America/Santiago:20270115T211500
-SUMMARY:Gimnasio — Hombros
-DESCRIPTION:Tu rutina de hipertrofia. Registra la carga top y el RIR del ej
- ercicio principal.\nSemana 12 · Déficit
+SUMMARY:Gimnasio
+DESCRIPTION:Rutina de tu entrenador. Este plan solo ordena la comida alrede
+ dor del entreno.\nSemana 12 · Déficit
 CATEGORIES:Gimnasio
 END:VEVENT
 BEGIN:VEVENT
 UID:20270116-natacion@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270116T090000
 DTEND;TZID=America/Santiago:20270116T100000
 SUMMARY:(Opcional) Natación suave (opcional) · 2000 m
@@ -1129,7 +1134,7 @@ CATEGORIES:Natación
 END:VEVENT
 BEGIN:VEVENT
 UID:20270117-hito@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:Control final y diseño del bloque 2
@@ -1137,7 +1142,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20270117-revision@gersonsv21-crypto.github.io
-DTSTAMP:20261025T211618Z
+DTSTAMP:20261025T233349Z
 DTSTART;TZID=America/Santiago:20270117T190000
 DTEND;TZID=America/Santiago:20270117T191500
 SUMMARY:Revisión semanal (semana 12)

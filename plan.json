@@ -28,7 +28,7 @@
         7
       ],
       "id": "pausa",
-      "nombre": "Pausa: mantención + descarga"
+      "nombre": "Pausa: mantención (más comida)"
     },
     {
       "semanas": [
@@ -90,15 +90,7 @@
   "gimnasio": {
     "hora": "20:00",
     "duracionMin": 75,
-    "grupos": [
-      "Pecho",
-      "Pierna",
-      "Espalda",
-      "Brazos",
-      "Hombros"
-    ],
-    "nota": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal.",
-    "notaPausa": "Semana de descarga: -40 % de series, mismas cargas, RIR 3."
+    "nota": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
   },
   "natacion": {
     "hora": "06:00",
