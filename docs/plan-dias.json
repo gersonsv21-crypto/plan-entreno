@@ -1,0 +1,1723 @@
+{
+  "titulo": "Plan de entrenamiento y alimentación — Bloque 1",
+  "inicio": "2026-10-26",
+  "dias": [
+    {
+      "fecha": "2026-10-26",
+      "semana": 1,
+      "diaSemana": "Lunes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pecho",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": [
+        "Bioimpedancia de partida"
+      ]
+    },
+    {
+      "fecha": "2026-10-27",
+      "semana": 1,
+      "diaSemana": "Martes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación aeróbica + técnica",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 2800,
+          "detalle": "400 calentamiento · 4×100 técnica · principal 5×300 Z2 (20\" pausa) · 4×50 patada · 200 suave",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pierna",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-10-28",
+      "semana": 1,
+      "diaSemana": "Miércoles",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Espalda",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-10-29",
+      "semana": 1,
+      "diaSemana": "Jueves",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación umbral",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 2800,
+          "detalle": "Principal 10×100 a ritmo umbral (15-20\" pausa)",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Brazos",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-10-30",
+      "semana": 1,
+      "diaSemana": "Viernes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Hombros",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-10-31",
+      "semana": 1,
+      "diaSemana": "Sábado",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación suave (opcional)",
+          "hora": "09:00",
+          "duracionMin": 60,
+          "metros": 2000,
+          "detalle": "Técnica y Z2. Primera palanca si el peso se estanca.",
+          "opcional": true
+        }
+      ],
+      "notas": [
+        "Si nadas, come como día de gimnasio."
+      ]
+    },
+    {
+      "fecha": "2026-11-01",
+      "semana": 1,
+      "diaSemana": "Domingo",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [],
+      "notas": [
+        "Revisión semanal en el panel (19:00)."
+      ]
+    },
+    {
+      "fecha": "2026-11-02",
+      "semana": 2,
+      "diaSemana": "Lunes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pecho",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-03",
+      "semana": 2,
+      "diaSemana": "Martes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación aeróbica + técnica",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 2800,
+          "detalle": "400 calentamiento · 4×100 técnica · principal 5×300 Z2 (20\" pausa) · 4×50 patada · 200 suave",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pierna",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-04",
+      "semana": 2,
+      "diaSemana": "Miércoles",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Espalda",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-05",
+      "semana": 2,
+      "diaSemana": "Jueves",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación umbral",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 2800,
+          "detalle": "Principal 10×100 a ritmo umbral (15-20\" pausa)",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Brazos",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-06",
+      "semana": 2,
+      "diaSemana": "Viernes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Hombros",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-07",
+      "semana": 2,
+      "diaSemana": "Sábado",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación suave (opcional)",
+          "hora": "09:00",
+          "duracionMin": 60,
+          "metros": 2000,
+          "detalle": "Técnica y Z2. Primera palanca si el peso se estanca.",
+          "opcional": true
+        }
+      ],
+      "notas": [
+        "Si nadas, come como día de gimnasio."
+      ]
+    },
+    {
+      "fecha": "2026-11-08",
+      "semana": 2,
+      "diaSemana": "Domingo",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [],
+      "notas": [
+        "Revisión semanal en el panel (19:00)."
+      ]
+    },
+    {
+      "fecha": "2026-11-09",
+      "semana": 3,
+      "diaSemana": "Lunes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pecho",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-10",
+      "semana": 3,
+      "diaSemana": "Martes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación aeróbica + técnica",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 2800,
+          "detalle": "400 calentamiento · 4×100 técnica · principal 5×300 Z2 (20\" pausa) · 4×50 patada · 200 suave",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pierna",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-11",
+      "semana": 3,
+      "diaSemana": "Miércoles",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Espalda",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-12",
+      "semana": 3,
+      "diaSemana": "Jueves",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación umbral",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 2800,
+          "detalle": "Principal 10×100 a ritmo umbral (15-20\" pausa)",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Brazos",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-13",
+      "semana": 3,
+      "diaSemana": "Viernes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Hombros",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-14",
+      "semana": 3,
+      "diaSemana": "Sábado",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación suave (opcional)",
+          "hora": "09:00",
+          "duracionMin": 60,
+          "metros": 2000,
+          "detalle": "Técnica y Z2. Primera palanca si el peso se estanca.",
+          "opcional": true
+        }
+      ],
+      "notas": [
+        "Si nadas, come como día de gimnasio."
+      ]
+    },
+    {
+      "fecha": "2026-11-15",
+      "semana": 3,
+      "diaSemana": "Domingo",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [],
+      "notas": [
+        "Revisión semanal en el panel (19:00)."
+      ]
+    },
+    {
+      "fecha": "2026-11-16",
+      "semana": 4,
+      "diaSemana": "Lunes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pecho",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-17",
+      "semana": 4,
+      "diaSemana": "Martes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación aeróbica + técnica",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3000,
+          "detalle": "400 calentamiento · 4×100 técnica · principal 5×300 Z2 (20\" pausa) · 4×50 patada · 200 suave",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pierna",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-18",
+      "semana": 4,
+      "diaSemana": "Miércoles",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Espalda",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-19",
+      "semana": 4,
+      "diaSemana": "Jueves",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación umbral",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3000,
+          "detalle": "Principal 12×100 a ritmo umbral",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Brazos",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-20",
+      "semana": 4,
+      "diaSemana": "Viernes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Hombros",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-21",
+      "semana": 4,
+      "diaSemana": "Sábado",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación suave (opcional)",
+          "hora": "09:00",
+          "duracionMin": 60,
+          "metros": 2000,
+          "detalle": "Técnica y Z2. Primera palanca si el peso se estanca.",
+          "opcional": true
+        }
+      ],
+      "notas": [
+        "Si nadas, come como día de gimnasio."
+      ]
+    },
+    {
+      "fecha": "2026-11-22",
+      "semana": 4,
+      "diaSemana": "Domingo",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [],
+      "notas": [
+        "Control 4 semanas: fotos y bioimpedancia",
+        "Revisión semanal en el panel (19:00)."
+      ]
+    },
+    {
+      "fecha": "2026-11-23",
+      "semana": 5,
+      "diaSemana": "Lunes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pecho",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-24",
+      "semana": 5,
+      "diaSemana": "Martes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación aeróbica + técnica",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3000,
+          "detalle": "400 calentamiento · 4×100 técnica · principal 5×300 Z2 (20\" pausa) · 4×50 patada · 200 suave",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pierna",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-25",
+      "semana": 5,
+      "diaSemana": "Miércoles",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Espalda",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-26",
+      "semana": 5,
+      "diaSemana": "Jueves",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación umbral",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3000,
+          "detalle": "Principal 12×100 a ritmo umbral",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Brazos",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-27",
+      "semana": 5,
+      "diaSemana": "Viernes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Hombros",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-11-28",
+      "semana": 5,
+      "diaSemana": "Sábado",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación suave (opcional)",
+          "hora": "09:00",
+          "duracionMin": 60,
+          "metros": 2000,
+          "detalle": "Técnica y Z2. Primera palanca si el peso se estanca.",
+          "opcional": true
+        }
+      ],
+      "notas": [
+        "Si nadas, come como día de gimnasio."
+      ]
+    },
+    {
+      "fecha": "2026-11-29",
+      "semana": 5,
+      "diaSemana": "Domingo",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [],
+      "notas": [
+        "Revisión semanal en el panel (19:00)."
+      ]
+    },
+    {
+      "fecha": "2026-11-30",
+      "semana": 6,
+      "diaSemana": "Lunes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pecho",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-01",
+      "semana": 6,
+      "diaSemana": "Martes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación aeróbica + técnica",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3000,
+          "detalle": "400 calentamiento · 4×100 técnica · principal 5×300 Z2 (20\" pausa) · 4×50 patada · 200 suave",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pierna",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-02",
+      "semana": 6,
+      "diaSemana": "Miércoles",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Espalda",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-03",
+      "semana": 6,
+      "diaSemana": "Jueves",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación umbral",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3000,
+          "detalle": "Principal 12×100 a ritmo umbral",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Brazos",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-04",
+      "semana": 6,
+      "diaSemana": "Viernes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Hombros",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-05",
+      "semana": 6,
+      "diaSemana": "Sábado",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación suave (opcional)",
+          "hora": "09:00",
+          "duracionMin": 60,
+          "metros": 2000,
+          "detalle": "Técnica y Z2. Primera palanca si el peso se estanca.",
+          "opcional": true
+        }
+      ],
+      "notas": [
+        "Si nadas, come como día de gimnasio."
+      ]
+    },
+    {
+      "fecha": "2026-12-06",
+      "semana": 6,
+      "diaSemana": "Domingo",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [],
+      "notas": [
+        "Revisión semanal en el panel (19:00)."
+      ]
+    },
+    {
+      "fecha": "2026-12-07",
+      "semana": 7,
+      "diaSemana": "Lunes",
+      "fase": "Pausa: mantención + descarga",
+      "pausa": true,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pecho",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Semana de descarga: -40 % de series, mismas cargas, RIR 3."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-08",
+      "semana": 7,
+      "diaSemana": "Martes",
+      "fase": "Pausa: mantención + descarga",
+      "pausa": true,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación aeróbica + técnica",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 1800,
+          "detalle": "400 calentamiento · 4×100 técnica · 3×300 Z2 suave · 100 suelto",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pierna",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Semana de descarga: -40 % de series, mismas cargas, RIR 3."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-09",
+      "semana": 7,
+      "diaSemana": "Miércoles",
+      "fase": "Pausa: mantención + descarga",
+      "pausa": true,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Espalda",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Semana de descarga: -40 % de series, mismas cargas, RIR 3."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-10",
+      "semana": 7,
+      "diaSemana": "Jueves",
+      "fase": "Pausa: mantención + descarga",
+      "pausa": true,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación umbral",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 1800,
+          "detalle": "Series cortas suaves, sin umbral",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Brazos",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Semana de descarga: -40 % de series, mismas cargas, RIR 3."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-11",
+      "semana": 7,
+      "diaSemana": "Viernes",
+      "fase": "Pausa: mantención + descarga",
+      "pausa": true,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Hombros",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Semana de descarga: -40 % de series, mismas cargas, RIR 3."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-12",
+      "semana": 7,
+      "diaSemana": "Sábado",
+      "fase": "Pausa: mantención + descarga",
+      "pausa": true,
+      "tipoDia": "descanso",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación suave (opcional)",
+          "hora": "09:00",
+          "duracionMin": 60,
+          "metros": 1500,
+          "detalle": "Técnica y Z2. Primera palanca si el peso se estanca.",
+          "opcional": true
+        }
+      ],
+      "notas": [
+        "Si nadas, come como día de gimnasio."
+      ]
+    },
+    {
+      "fecha": "2026-12-13",
+      "semana": 7,
+      "diaSemana": "Domingo",
+      "fase": "Pausa: mantención + descarga",
+      "pausa": true,
+      "tipoDia": "descanso",
+      "sesiones": [],
+      "notas": [
+        "Revisión semanal en el panel (19:00)."
+      ]
+    },
+    {
+      "fecha": "2026-12-14",
+      "semana": 8,
+      "diaSemana": "Lunes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pecho",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-15",
+      "semana": 8,
+      "diaSemana": "Martes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación aeróbica + técnica",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3200,
+          "detalle": "400 calentamiento · 4×100 técnica · principal 4×400 Z2 (20\" pausa) · 4×50 patada · 200 suave",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pierna",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-16",
+      "semana": 8,
+      "diaSemana": "Miércoles",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Espalda",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-17",
+      "semana": 8,
+      "diaSemana": "Jueves",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación umbral",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3200,
+          "detalle": "Principal 3×(4×150) a ritmo umbral",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Brazos",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-18",
+      "semana": 8,
+      "diaSemana": "Viernes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Hombros",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-19",
+      "semana": 8,
+      "diaSemana": "Sábado",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación suave (opcional)",
+          "hora": "09:00",
+          "duracionMin": 60,
+          "metros": 2000,
+          "detalle": "Técnica y Z2. Primera palanca si el peso se estanca.",
+          "opcional": true
+        }
+      ],
+      "notas": [
+        "Si nadas, come como día de gimnasio."
+      ]
+    },
+    {
+      "fecha": "2026-12-20",
+      "semana": 8,
+      "diaSemana": "Domingo",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [],
+      "notas": [
+        "Control 8 semanas: ¿entra la carrera? (rodilla)",
+        "Revisión semanal en el panel (19:00)."
+      ]
+    },
+    {
+      "fecha": "2026-12-21",
+      "semana": 9,
+      "diaSemana": "Lunes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pecho",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-22",
+      "semana": 9,
+      "diaSemana": "Martes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación aeróbica + técnica",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3200,
+          "detalle": "400 calentamiento · 4×100 técnica · principal 4×400 Z2 (20\" pausa) · 4×50 patada · 200 suave",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pierna",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-23",
+      "semana": 9,
+      "diaSemana": "Miércoles",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Espalda",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-24",
+      "semana": 9,
+      "diaSemana": "Jueves",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación umbral",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3200,
+          "detalle": "Principal 3×(4×150) a ritmo umbral",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Brazos",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": [
+        "Nochebuena: día en mantención"
+      ]
+    },
+    {
+      "fecha": "2026-12-25",
+      "semana": 9,
+      "diaSemana": "Viernes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Hombros",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": [
+        "Navidad: día en mantención"
+      ]
+    },
+    {
+      "fecha": "2026-12-26",
+      "semana": 9,
+      "diaSemana": "Sábado",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación suave (opcional)",
+          "hora": "09:00",
+          "duracionMin": 60,
+          "metros": 2000,
+          "detalle": "Técnica y Z2. Primera palanca si el peso se estanca.",
+          "opcional": true
+        }
+      ],
+      "notas": [
+        "Si nadas, come como día de gimnasio."
+      ]
+    },
+    {
+      "fecha": "2026-12-27",
+      "semana": 9,
+      "diaSemana": "Domingo",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [],
+      "notas": [
+        "Revisión semanal en el panel (19:00)."
+      ]
+    },
+    {
+      "fecha": "2026-12-28",
+      "semana": 10,
+      "diaSemana": "Lunes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pecho",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-29",
+      "semana": 10,
+      "diaSemana": "Martes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación aeróbica + técnica",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3200,
+          "detalle": "400 calentamiento · 4×100 técnica · principal 4×400 Z2 (20\" pausa) · 4×50 patada · 200 suave",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pierna",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-30",
+      "semana": 10,
+      "diaSemana": "Miércoles",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Espalda",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-31",
+      "semana": 10,
+      "diaSemana": "Jueves",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación umbral",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3200,
+          "detalle": "Principal 3×(4×150) a ritmo umbral",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Brazos",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": [
+        "Fin de año: día en mantención"
+      ]
+    },
+    {
+      "fecha": "2027-01-01",
+      "semana": 10,
+      "diaSemana": "Viernes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Hombros",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": [
+        "Año Nuevo: día en mantención"
+      ]
+    },
+    {
+      "fecha": "2027-01-02",
+      "semana": 10,
+      "diaSemana": "Sábado",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación suave (opcional)",
+          "hora": "09:00",
+          "duracionMin": 60,
+          "metros": 2000,
+          "detalle": "Técnica y Z2. Primera palanca si el peso se estanca.",
+          "opcional": true
+        }
+      ],
+      "notas": [
+        "Si nadas, come como día de gimnasio."
+      ]
+    },
+    {
+      "fecha": "2027-01-03",
+      "semana": 10,
+      "diaSemana": "Domingo",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [],
+      "notas": [
+        "Revisión semanal en el panel (19:00)."
+      ]
+    },
+    {
+      "fecha": "2027-01-04",
+      "semana": 11,
+      "diaSemana": "Lunes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pecho",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2027-01-05",
+      "semana": 11,
+      "diaSemana": "Martes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación aeróbica + técnica",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3200,
+          "detalle": "400 calentamiento · 4×100 técnica · principal 4×400 Z2 (20\" pausa) · 4×50 patada · 200 suave",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pierna",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2027-01-06",
+      "semana": 11,
+      "diaSemana": "Miércoles",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Espalda",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2027-01-07",
+      "semana": 11,
+      "diaSemana": "Jueves",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación umbral",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3200,
+          "detalle": "Principal 3×(4×150) a ritmo umbral",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Brazos",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2027-01-08",
+      "semana": 11,
+      "diaSemana": "Viernes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Hombros",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2027-01-09",
+      "semana": 11,
+      "diaSemana": "Sábado",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación suave (opcional)",
+          "hora": "09:00",
+          "duracionMin": 60,
+          "metros": 2000,
+          "detalle": "Técnica y Z2. Primera palanca si el peso se estanca.",
+          "opcional": true
+        }
+      ],
+      "notas": [
+        "Si nadas, come como día de gimnasio."
+      ]
+    },
+    {
+      "fecha": "2027-01-10",
+      "semana": 11,
+      "diaSemana": "Domingo",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [],
+      "notas": [
+        "Revisión semanal en el panel (19:00)."
+      ]
+    },
+    {
+      "fecha": "2027-01-11",
+      "semana": 12,
+      "diaSemana": "Lunes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pecho",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2027-01-12",
+      "semana": 12,
+      "diaSemana": "Martes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación aeróbica + técnica",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3200,
+          "detalle": "400 calentamiento · 4×100 técnica · principal 4×400 Z2 (20\" pausa) · 4×50 patada · 200 suave",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Pierna",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2027-01-13",
+      "semana": 12,
+      "diaSemana": "Miércoles",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Espalda",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2027-01-14",
+      "semana": 12,
+      "diaSemana": "Jueves",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación umbral",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3200,
+          "detalle": "Principal 3×(4×150) a ritmo umbral",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Brazos",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2027-01-15",
+      "semana": 12,
+      "diaSemana": "Viernes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio — Hombros",
+          "hora": "20:00",
+          "duracionMin": 75,
+          "detalle": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2027-01-16",
+      "semana": 12,
+      "diaSemana": "Sábado",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación suave (opcional)",
+          "hora": "09:00",
+          "duracionMin": 60,
+          "metros": 2000,
+          "detalle": "Técnica y Z2. Primera palanca si el peso se estanca.",
+          "opcional": true
+        }
+      ],
+      "notas": [
+        "Si nadas, come como día de gimnasio."
+      ]
+    },
+    {
+      "fecha": "2027-01-17",
+      "semana": 12,
+      "diaSemana": "Domingo",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [],
+      "notas": [
+        "Control final y diseño del bloque 2",
+        "Revisión semanal en el panel (19:00)."
+      ]
+    }
+  ]
+}
