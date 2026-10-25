@@ -4,103 +4,355 @@
   "semanas": 12,
   "zonaHoraria": "America/Santiago",
   "nota": "Versión pública: sesiones y menú. Sin peso, calorías ni datos personales.",
-
   "fases": [
-    { "semanas": [1], "id": "aprendizaje", "nombre": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)" },
-    { "semanas": [2, 3, 4, 5, 6], "id": "deficit", "nombre": "Déficit" },
-    { "semanas": [7], "id": "pausa", "nombre": "Pausa: mantención + descarga" },
-    { "semanas": [8, 9, 10, 11, 12], "id": "deficit", "nombre": "Déficit" }
+    {
+      "semanas": [
+        1
+      ],
+      "id": "aprendizaje",
+      "nombre": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)"
+    },
+    {
+      "semanas": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "id": "deficit",
+      "nombre": "Déficit"
+    },
+    {
+      "semanas": [
+        7
+      ],
+      "id": "pausa",
+      "nombre": "Pausa: mantención + descarga"
+    },
+    {
+      "semanas": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "id": "deficit",
+      "nombre": "Déficit"
+    }
   ],
-
   "hitos": [
-    { "semana": 1, "dia": 0, "texto": "Bioimpedancia de partida · empieza la semana de aprendizaje" },
-    { "semana": 1, "dia": 6, "texto": "Fin del aprendizaje: el menú base se arma con tus comidas reales" },
-    { "semana": 4, "dia": 6, "texto": "Control 4 semanas: fotos y bioimpedancia" },
-    { "semana": 8, "dia": 6, "texto": "Control 8 semanas: ¿entra la carrera? (rodilla)" },
-    { "semana": 12, "dia": 6, "texto": "Control final y diseño del bloque 2" }
+    {
+      "semana": 1,
+      "dia": 0,
+      "texto": "InBody de partida · empieza la semana de aprendizaje"
+    },
+    {
+      "semana": 1,
+      "dia": 6,
+      "texto": "Fin del aprendizaje: el menú base se arma con tus comidas reales"
+    },
+    {
+      "semana": 4,
+      "dia": 6,
+      "texto": "Control 4 semanas: fotos e InBody"
+    },
+    {
+      "semana": 8,
+      "dia": 6,
+      "texto": "Control 8 semanas: ¿entra la carrera? (rodilla)"
+    },
+    {
+      "semana": 12,
+      "dia": 6,
+      "texto": "Control final y diseño del bloque 2"
+    }
   ],
-
   "diasEspeciales": [
-    { "fecha": "2026-12-24", "texto": "Nochebuena: día en mantención" },
-    { "fecha": "2026-12-25", "texto": "Navidad: día en mantención" },
-    { "fecha": "2026-12-31", "texto": "Fin de año: día en mantención" },
-    { "fecha": "2027-01-01", "texto": "Año Nuevo: día en mantención" }
+    {
+      "fecha": "2026-12-24",
+      "texto": "Nochebuena: día en mantención"
+    },
+    {
+      "fecha": "2026-12-25",
+      "texto": "Navidad: día en mantención"
+    },
+    {
+      "fecha": "2026-12-31",
+      "texto": "Fin de año: día en mantención"
+    },
+    {
+      "fecha": "2027-01-01",
+      "texto": "Año Nuevo: día en mantención"
+    }
   ],
-
   "gimnasio": {
     "hora": "20:00",
     "duracionMin": 75,
-    "grupos": ["Pecho", "Pierna", "Espalda", "Brazos", "Hombros"],
+    "grupos": [
+      "Pecho",
+      "Pierna",
+      "Espalda",
+      "Brazos",
+      "Hombros"
+    ],
     "nota": "Tu rutina de hipertrofia. Registra la carga top y el RIR del ejercicio principal.",
     "notaPausa": "Semana de descarga: -40 % de series, mismas cargas, RIR 3."
   },
-
   "natacion": {
     "hora": "06:00",
     "duracionMin": 60,
     "sesiones": {
       "martes": {
         "nombre": "Natación aeróbica + técnica",
-        "metros": { "1-3": 2800, "4-6": 3000, "7": 1800, "8-12": 3200 },
-        "detalle": { "1-6": "400 calentamiento · 4×100 técnica · principal 5×300 Z2 (20\" pausa) · 4×50 patada · 200 suave", "7": "400 calentamiento · 4×100 técnica · 3×300 Z2 suave · 100 suelto", "8-12": "400 calentamiento · 4×100 técnica · principal 4×400 Z2 (20\" pausa) · 4×50 patada · 200 suave" }
+        "metros": {
+          "7": 1800,
+          "1-3": 2800,
+          "4-6": 3000,
+          "8-12": 3200
+        },
+        "detalle": {
+          "7": "400 calentamiento · 4×100 técnica · 3×300 Z2 suave · 100 suelto",
+          "1-6": "400 calentamiento · 4×100 técnica · principal 5×300 Z2 (20\" pausa) · 4×50 patada · 200 suave",
+          "8-12": "400 calentamiento · 4×100 técnica · principal 4×400 Z2 (20\" pausa) · 4×50 patada · 200 suave"
+        }
       },
       "jueves": {
         "nombre": "Natación umbral",
-        "metros": { "1-3": 2800, "4-6": 3000, "7": 1800, "8-12": 3200 },
-        "detalle": { "1-3": "Principal 10×100 a ritmo umbral (15-20\" pausa)", "4-6": "Principal 12×100 a ritmo umbral", "7": "Series cortas suaves, sin umbral", "8-12": "Principal 3×(4×150) a ritmo umbral" }
+        "metros": {
+          "7": 1800,
+          "1-3": 2800,
+          "4-6": 3000,
+          "8-12": 3200
+        },
+        "detalle": {
+          "7": "Series cortas suaves, sin umbral",
+          "1-3": "Principal 10×100 a ritmo umbral (15-20\" pausa)",
+          "4-6": "Principal 12×100 a ritmo umbral",
+          "8-12": "Principal 3×(4×150) a ritmo umbral"
+        }
       },
       "sabado": {
         "nombre": "Natación suave (opcional)",
         "hora": "09:00",
-        "metros": { "1-6": 2000, "7": 1500, "8-12": 2000 },
+        "metros": {
+          "7": 1500,
+          "1-6": 2000,
+          "8-12": 2000
+        },
         "detalle": "Técnica y Z2. Primera palanca si el peso se estanca."
       }
     }
   },
-
   "tiposDia": {
     "doble": {
       "nombre": "Día doble (natación + gimnasio)",
       "comidas": [
-        { "hora": "05:30", "nombre": "Antes de nadar", "items": ["1 plátano o 2 galletas de arroz con miel", "Café (1ª taza)", "Agua"] },
-        { "hora": "07:15", "nombre": "Desayuno post-natación", "items": ["4 huevos (o 3 + 2 claras)", "4 galletas de arroz", "1 fruta", "1 yogur"] },
-        { "hora": "13:00", "nombre": "Almuerzo", "items": ["200 g de proteína cocida (pollo, vacuno magro, pescado)", "1½ taza de arroz, papas o pasta", "Ensalada libre + 1 cdta de aceite de oliva", "Último café antes de las 13:30"] },
-        { "hora": "17:30", "nombre": "Once / pre-gimnasio", "items": ["Yogur proteico + 40 g de avena + 1 fruta", "o ½ marraqueta con pavo y quesillo"] },
-        { "hora": "21:30", "nombre": "Cena post-gimnasio", "items": ["150 g de proteína cocida o 3 huevos", "1 taza de papas o arroz", "Verduras"] },
-        { "hora": "22:15", "nombre": "Antes de dormir (si faltó proteína)", "items": ["1 scoop de whey isolate, o 200 g de quesillo / yogur griego", "Creatina 5 g"] }
+        {
+          "hora": "05:30",
+          "nombre": "Antes de nadar",
+          "items": [
+            "1 fruta (plátano)",
+            "Café",
+            "Agua"
+          ]
+        },
+        {
+          "hora": "07:15",
+          "nombre": "Desayuno post-natación",
+          "items": [
+            "2 cereales: 1 arepa + 2 galletas de arroz, o 2 panes pita",
+            "4 proteínas: 4 huevos, o 3 huevos + 1 lámina de pavo",
+            "¼ de palta",
+            "1 fruta"
+          ]
+        },
+        {
+          "hora": "10:30",
+          "nombre": "Colación",
+          "items": [
+            "1 lácteo proteico (yogur o leche protein)",
+            "1 fruta",
+            "Café: 1 hora después del desayuno"
+          ]
+        },
+        {
+          "hora": "13:00",
+          "nombre": "Almuerzo",
+          "items": [
+            "2 cereales: 1½ taza de arroz, quinoa o espirales integrales, o 4 papas medianas",
+            "4 proteínas: 200 g crudos de pollo, pavo o pescado (vacuno 1 vez por semana)",
+            "1 taza de verduras + ensalada libre",
+            "1 cdta de aceite de oliva en crudo",
+            "Último café antes de las 13:30"
+          ]
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Pre-gimnasio",
+          "items": [
+            "2 cereales: 40 g de avena + 2 galletas de arroz, o 1 pan pita",
+            "1 lácteo proteico",
+            "1 fruta (½ plátano va bien)"
+          ]
+        },
+        {
+          "hora": "21:30",
+          "nombre": "Cena post-gimnasio",
+          "items": [
+            "2 cereales: 2 fajitas integrales, o 1½ taza de arroz o papas",
+            "3 proteínas: 150 g crudos de pollo o pescado, 1 lata de atún, o 3 huevos",
+            "Verduras libres",
+            "¼ de palta",
+            "1 cdta de aceite de oliva en crudo"
+          ]
+        },
+        {
+          "hora": "22:15",
+          "nombre": "Antes de dormir",
+          "items": [
+            "Creatina 5 g",
+            "Solo si faltó proteína: 1 scoop de whey isolate (= 2 proteínas)"
+          ]
+        }
       ]
     },
     "gimnasio": {
       "nombre": "Día de gimnasio",
       "comidas": [
-        { "hora": "07:00", "nombre": "Desayuno", "items": ["4 huevos (o 3 + 2 claras)", "4 galletas de arroz", "1 fruta", "Café"] },
-        { "hora": "13:00", "nombre": "Almuerzo", "items": ["200 g de proteína cocida", "1½ taza de arroz, papas o pasta", "Ensalada libre + 1 cdta de aceite de oliva", "Último café antes de las 13:30"] },
-        { "hora": "17:30", "nombre": "Once / pre-gimnasio", "items": ["Yogur proteico + 40 g de avena + 1 fruta", "o ½ marraqueta con pavo y quesillo"] },
-        { "hora": "21:30", "nombre": "Cena post-gimnasio", "items": ["150 g de proteína cocida o 3 huevos", "¾ taza de papas o arroz", "Verduras"] },
-        { "hora": "22:15", "nombre": "Antes de dormir (si faltó proteína)", "items": ["1 scoop de whey isolate, o 200 g de quesillo / yogur griego", "Creatina 5 g"] }
+        {
+          "hora": "07:00",
+          "nombre": "Desayuno",
+          "items": [
+            "1 cereal: 1 arepa, 1 pan pita o 2 rebanadas de pan integral",
+            "4 proteínas: 4 huevos, o 3 huevos + 1 lámina de pavo",
+            "¼ de palta",
+            "1 fruta",
+            "Café"
+          ]
+        },
+        {
+          "hora": "11:00",
+          "nombre": "Colación",
+          "items": [
+            "1 lácteo proteico (yogur o leche protein)",
+            "1 fruta",
+            "Café: 1 hora después del desayuno"
+          ]
+        },
+        {
+          "hora": "13:00",
+          "nombre": "Almuerzo",
+          "items": [
+            "2 cereales: 1½ taza de arroz, quinoa o espirales integrales, o 4 papas medianas",
+            "4 proteínas: 200 g crudos de pollo, pavo o pescado (vacuno 1 vez por semana)",
+            "1 taza de verduras + ensalada libre",
+            "1 cdta de aceite de oliva en crudo",
+            "Último café antes de las 13:30"
+          ]
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Pre-gimnasio",
+          "items": [
+            "2 cereales: 40 g de avena + 2 galletas de arroz, o 1 pan pita",
+            "1 lácteo proteico",
+            "1 fruta (½ plátano va bien)"
+          ]
+        },
+        {
+          "hora": "21:30",
+          "nombre": "Cena post-gimnasio",
+          "items": [
+            "2 cereales: 2 fajitas integrales, o 1½ taza de arroz o papas",
+            "3 proteínas: 150 g crudos de pollo o pescado, 1 lata de atún, o 3 huevos",
+            "Verduras libres",
+            "¼ de palta",
+            "1 cdta de aceite de oliva en crudo"
+          ]
+        },
+        {
+          "hora": "22:15",
+          "nombre": "Antes de dormir",
+          "items": [
+            "Creatina 5 g",
+            "Solo si faltó proteína: 1 scoop de whey isolate (= 2 proteínas)"
+          ]
+        }
       ]
     },
     "descanso": {
       "nombre": "Día de descanso",
       "comidas": [
-        { "hora": "08:30", "nombre": "Desayuno", "items": ["4 huevos (o 3 + 2 claras)", "2 galletas de arroz", "1 fruta", "Café"] },
-        { "hora": "13:30", "nombre": "Almuerzo", "items": ["200 g de proteína cocida", "¾ taza de arroz o papas", "Ensalada libre + 1 cdta de aceite de oliva"] },
-        { "hora": "17:30", "nombre": "Once", "items": ["Yogur proteico + 1 fruta"] },
-        { "hora": "20:30", "nombre": "Cena", "items": ["150 g de proteína cocida o 3 huevos", "Verduras (sin almidón)"] },
-        { "hora": "22:00", "nombre": "Antes de dormir", "items": ["1 scoop de whey isolate, o 200 g de quesillo / yogur griego", "Creatina 5 g"] }
+        {
+          "hora": "08:30",
+          "nombre": "Desayuno",
+          "items": [
+            "1 cereal: 1 arepa, 1 pan pita o tortilla de avena",
+            "4 proteínas: 4 huevos, o 3 huevos + 1 lámina de pavo",
+            "¼ de palta",
+            "Café"
+          ]
+        },
+        {
+          "hora": "11:30",
+          "nombre": "Colación",
+          "items": [
+            "1 lácteo proteico (yogur o leche protein)",
+            "1 fruta",
+            "Café: 1 hora después del desayuno"
+          ]
+        },
+        {
+          "hora": "13:30",
+          "nombre": "Almuerzo",
+          "items": [
+            "2 cereales: 1½ taza de arroz, quinoa o espirales integrales, o 4 papas medianas",
+            "4 proteínas: 200 g crudos de pollo, pavo o pescado (vacuno 1 vez por semana)",
+            "1 taza de verduras + ensalada libre",
+            "1 cdta de aceite de oliva en crudo",
+            "Legumbres (2 veces por semana) solo si no te inflan: 1 taza = 1 cereal + 1 proteína"
+          ]
+        },
+        {
+          "hora": "17:30",
+          "nombre": "Once",
+          "items": [
+            "1 cereal: 40 g de avena o 2 galletas de arroz",
+            "1 lácteo proteico",
+            "1 fruta"
+          ]
+        },
+        {
+          "hora": "20:30",
+          "nombre": "Cena",
+          "items": [
+            "1 cereal: 1 fajita integral o ¾ taza de arroz",
+            "3 proteínas: omelette, quiche sin masa, atún o pollo",
+            "Verduras libres o crema de verduras",
+            "¼ de palta"
+          ]
+        },
+        {
+          "hora": "22:00",
+          "nombre": "Antes de dormir",
+          "items": [
+            "Creatina 5 g"
+          ]
+        }
       ]
     }
   },
-
-  "pausaComidas": "Semana de pausa: +1 porción de carbohidrato en el almuerzo y en la cena, todos los días.",
-
+  "pausaComidas": "Semana de pausa: +1 cereal en el almuerzo y +1 en la cena, todos los días.",
   "reglasDelDia": [
-    "1 postre chico al día está dentro del plan.",
+    "1 postre chico al día está dentro del plan (mousse de quesillo, compota de manzana con canela, postre de yogur y café).",
     "Agua: ~2,8 L al día + 0,5–0,8 L por hora de entrenamiento.",
     "Café: el último antes de las 13:30. Sin pre-entreno de noche.",
     "A la cama ~22:30 la noche antes de nadar.",
     "Peso en ayunas, después del baño, antes de comer: se anota en el panel.",
     "Anota en el panel lo que comes, tal como lo dirías: desayuno, almuerzo, once, antes y después de entrenar, pre-entreno, creatina.",
     "Si algo te infla el abdomen, márcalo al anotarlo: el plan lo saca o lo cambia."
-  ]
+  ],
+  "porciones": "Porciones de intercambio: 1 cereal = ¾ taza de arroz/quinoa · 2 papas medianas · ½ taza de avena (40 g) · 2 rebanadas de pan integral · 1 pan pita · 1 fajita · 2 galletas de arroz. 1 proteína = 50 g crudos de carne o pescado · 1 huevo · 3 claras · ½ taza de atún."
 }

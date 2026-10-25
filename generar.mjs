@@ -133,7 +133,7 @@ export function generarIcs(plan, dias, ahora = new Date()) {
 }
 
 function generarHtml(plan, dias) {
-  const datos = JSON.stringify({ plan: { titulo: plan.titulo, tiposDia: plan.tiposDia, pausaComidas: plan.pausaComidas, reglasDelDia: plan.reglasDelDia, semanas: plan.semanas }, dias })
+  const datos = JSON.stringify({ plan: { titulo: plan.titulo, tiposDia: plan.tiposDia, pausaComidas: plan.pausaComidas, porciones: plan.porciones, reglasDelDia: plan.reglasDelDia, semanas: plan.semanas }, dias })
     .replace(/</g, '\\u003c');
   return readFileSync(join(RAIZ, 'plantilla.html'), 'utf8').replace('/*DATOS*/null', datos);
 }

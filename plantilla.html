@@ -98,7 +98,7 @@ footer{margin-top:28px;color:var(--muted);font-size:13px}
   </section>
 
   <div class="dos">
-    <section class="tarjeta"><h2>Reglas de todos los días</h2><ul class="reglas" id="reglas"></ul></section>
+    <section class="tarjeta"><h2>Reglas de todos los días</h2><ul class="reglas" id="reglas"></ul><p class="nota" id="porciones"></p></section>
     <section class="tarjeta"><h2>Cómo usar el calendario</h2>
       <ul class="reglas">
         <li><b>Google Calendar:</b> descarga el .ics → en el computador, Configuración → Importar y exportar → Importar. Conviene importarlo a un calendario propio para poder borrarlo entero después.</li>
@@ -131,6 +131,7 @@ $('#tema').onclick = () => {
 $('#titulo').textContent = plan.titulo;
 $('#sub').textContent = `${fmt(dias[0].fecha, { day: 'numeric', month: 'long' })} → ${fmt(dias.at(-1).fecha, { day: 'numeric', month: 'long', year: 'numeric' })} · ${plan.semanas} semanas`;
 $('#reglas').innerHTML = plan.reglasDelDia.map((r) => `<li>${esc(r)}</li>`).join('');
+$('#porciones').textContent = plan.porciones || '';
 
 let sel = dias.find((d) => d.fecha === hoyIso) || (hoyIso < dias[0].fecha ? dias[0] : dias.at(-1));
 let semana = sel.semana;
@@ -185,7 +186,7 @@ function pintarImprimible() {
   for (const [k, t] of Object.entries(plan.tiposDia)) {
     h += `<div class="tarjeta" style="margin-bottom:10px"><b>${esc(t.nombre)}</b><table>${t.comidas.map((c) => `<tr><td style="width:60px">${esc(c.hora)}</td><td><b>${esc(c.nombre)}</b>: ${c.items.map(esc).join(' · ')}</td></tr>`).join('')}</table></div>`;
   }
-  h += `<p>${esc(plan.pausaComidas)}</p><ul>${plan.reglasDelDia.map((r) => `<li>${esc(r)}</li>`).join('')}</ul>`;
+  h += `<p>${esc(plan.porciones || "")}</p><p>${esc(plan.pausaComidas)}</p><ul>${plan.reglasDelDia.map((r) => `<li>${esc(r)}</li>`).join('')}</ul>`;
   $('#imprimible').innerHTML = h;
 }
 pintarDetalle(); pintarSemanas(); pintarImprimible();
