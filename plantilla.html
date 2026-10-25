@@ -83,7 +83,9 @@ footer{margin-top:28px;color:var(--muted);font-size:13px}
   <h1 id="titulo"></h1>
   <p class="sub" id="sub"></p>
   <div class="acciones">
-    <a class="btn prim" href="plan-entreno.ics" download>📅 Descargar calendario (.ics)</a>
+    <a class="btn prim" href="https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fgersonsv21-crypto.github.io%2Fplan-entreno%2Fplan-entreno.ics" target="_blank" rel="noopener">📅 Agregar a Google Calendar</a>
+    <a class="btn" href="webcal://gersonsv21-crypto.github.io/plan-entreno/plan-entreno.ics">🍎 iPhone / Apple</a>
+    <a class="btn" href="plan-entreno.ics" download>⬇️ Descargar .ics</a>
     <button class="btn" type="button" onclick="window.print()">🖨️ Imprimir o guardar PDF</button>
     <button class="btn" type="button" id="tema" aria-label="Cambiar tema">◐</button>
   </div>
@@ -101,8 +103,9 @@ footer{margin-top:28px;color:var(--muted);font-size:13px}
     <section class="tarjeta"><h2>Reglas de todos los días</h2><ul class="reglas" id="reglas"></ul><p class="nota" id="porciones"></p></section>
     <section class="tarjeta"><h2>Cómo usar el calendario</h2>
       <ul class="reglas">
-        <li><b>Google Calendar:</b> descarga el .ics → en el computador, Configuración → Importar y exportar → Importar. Conviene importarlo a un calendario propio para poder borrarlo entero después.</li>
-        <li><b>iPhone o Android:</b> abre el .ics desde el teléfono y acepta agregar los eventos.</li>
+        <li><b>Google Calendar (recomendado):</b> botón "Agregar a Google Calendar" → "Agregar". Queda como un calendario aparte ("Plan de entrenamiento…") que aparece también en el teléfono y se actualiza solo cuando cambia el plan (Google tarda hasta un día en refrescarlo). Para quitarlo: Configuración → el calendario → "Anular suscripción".</li>
+        <li><b>iPhone / Apple:</b> botón "iPhone / Apple" → "Suscribirse".</li>
+        <li><b>El archivo .ics</b> no se "abre" para mirarlo: es para importarlo (Google Calendar en el computador → Configuración → Importar y exportar → Importar). Importado no se actualiza solo.</li>
         <li><b>PDF:</b> "Imprimir o guardar PDF" → destino "Guardar como PDF". Sale el bloque completo y los menús.</li>
       </ul>
     </section>
