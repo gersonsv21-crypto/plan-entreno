@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
-import { porSemana, expandir, generarIcs } from './generar.mjs';
+import { porSemana, expandir, generarIcs, generarIcsComidas } from './generar.mjs';
 
 const plan = JSON.parse(readFileSync(new URL('./plan.json', import.meta.url), 'utf8'));
 const dias = expandir(plan);
@@ -33,4 +33,13 @@ test('el .ics no publica datos privados y respeta el largo de línea', () => {
   assert.ok(!/kcal|calor[ií]a|peso:|\bkg\b/i.test(ics));
   assert.ok(ics.split('\r\n').every((l) => Buffer.byteLength(l, 'utf8') <= 75));
   assert.equal((ics.match(/BEGIN:VEVENT/g) || []).length, 96 + 12 + 9);
+});
+
+test('el calendario de comidas trae cada comida del día a su hora', () => {
+  const ics = generarIcsComidas(plan, dias, new Date('2026-10-25T00:00:00Z'));
+  const esperado = dias.reduce((a, d) => a + plan.tiposDia[d.tipoDia].comidas.length, 0);
+  assert.equal((ics.match(/BEGIN:VEVENT/g) || []).length, esperado);
+  assert.ok(ics.includes('DTSTART;TZID=America/Santiago:20261026T180000'));
+  assert.ok(!/kcal|calor[ií]a|\bkg\b/i.test(ics));
+  assert.ok(ics.split('\r\n').every((l) => Buffer.byteLength(l, 'utf8') <= 75));
 });

@@ -88,7 +88,7 @@
     }
   ],
   "gimnasio": {
-    "hora": "20:00",
+    "hora": "19:30",
     "duracionMin": 75,
     "nota": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
   },
@@ -151,7 +151,7 @@
           ]
         },
         {
-          "hora": "07:15",
+          "hora": "08:00",
           "nombre": "Desayuno post-natación",
           "items": [
             "2 cereales: 1 arepa + 2 galletas de arroz, o 2 panes pita",
@@ -161,7 +161,7 @@
           ]
         },
         {
-          "hora": "10:30",
+          "hora": "11:00",
           "nombre": "Colación",
           "items": [
             "1 lácteo proteico (yogur o leche protein)",
@@ -170,40 +170,41 @@
           ]
         },
         {
-          "hora": "13:00",
+          "hora": "12:30",
           "nombre": "Almuerzo",
           "items": [
             "2 cereales: 1½ taza de arroz, quinoa o espirales integrales, o 4 papas medianas",
             "4 proteínas: 200 g crudos de pollo, pavo o pescado (vacuno 1 vez por semana)",
             "1 taza de verduras + ensalada libre",
-            "1 cdta de aceite de oliva en crudo",
-            "Último café antes de las 13:30"
-          ]
-        },
-        {
-          "hora": "17:30",
-          "nombre": "Pre-gimnasio",
-          "items": [
-            "2 cereales: 40 g de avena + 2 galletas de arroz, o 1 pan pita",
-            "1 lácteo proteico",
-            "1 fruta (½ plátano va bien)"
-          ]
-        },
-        {
-          "hora": "21:30",
-          "nombre": "Cena post-gimnasio",
-          "items": [
-            "2 cereales: 2 fajitas integrales, o 1½ taza de arroz o papas",
-            "3 proteínas: 150 g crudos de pollo o pescado, 1 lata de atún, o 3 huevos",
-            "Verduras libres",
-            "¼ de palta",
             "1 cdta de aceite de oliva en crudo"
           ]
         },
         {
-          "hora": "22:15",
-          "nombre": "Antes de dormir",
+          "hora": "16:00",
+          "nombre": "Colación de la tarde",
           "items": [
+            "1 fruta (½ plátano va bien)",
+            "Café (como siempre; se revisa el domingo según cómo duermas)"
+          ]
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Cena (antes de entrenar)",
+          "items": [
+            "2 cereales: 2 fajitas integrales, o 1½ taza de arroz o papas",
+            "3 proteínas: 150 g crudos de pollo o pescado, 1 lata de atún, o 3 huevos",
+            "Verduras cocidas, porción moderada (crudas o en exceso inflan antes de entrenar)",
+            "¼ de palta",
+            "1 cdta de aceite de oliva en crudo",
+            "Entrenas 90 min después"
+          ]
+        },
+        {
+          "hora": "21:00",
+          "nombre": "Post-entreno",
+          "items": [
+            "2 cereales: 40 g de avena + 2 galletas de arroz, o 1 pan pita",
+            "1 lácteo proteico",
             "Creatina 5 g",
             "Solo si faltó proteína: 1 scoop de whey isolate (= 2 proteínas)"
           ]
@@ -214,7 +215,7 @@
       "nombre": "Día de gimnasio",
       "comidas": [
         {
-          "hora": "07:00",
+          "hora": "09:00",
           "nombre": "Desayuno",
           "items": [
             "1 cereal: 1 arepa, 1 pan pita o 2 rebanadas de pan integral",
@@ -234,40 +235,41 @@
           ]
         },
         {
-          "hora": "13:00",
+          "hora": "12:30",
           "nombre": "Almuerzo",
           "items": [
             "2 cereales: 1½ taza de arroz, quinoa o espirales integrales, o 4 papas medianas",
             "4 proteínas: 200 g crudos de pollo, pavo o pescado (vacuno 1 vez por semana)",
             "1 taza de verduras + ensalada libre",
-            "1 cdta de aceite de oliva en crudo",
-            "Último café antes de las 13:30"
-          ]
-        },
-        {
-          "hora": "17:30",
-          "nombre": "Pre-gimnasio",
-          "items": [
-            "2 cereales: 40 g de avena + 2 galletas de arroz, o 1 pan pita",
-            "1 lácteo proteico",
-            "1 fruta (½ plátano va bien)"
-          ]
-        },
-        {
-          "hora": "21:30",
-          "nombre": "Cena post-gimnasio",
-          "items": [
-            "2 cereales: 2 fajitas integrales, o 1½ taza de arroz o papas",
-            "3 proteínas: 150 g crudos de pollo o pescado, 1 lata de atún, o 3 huevos",
-            "Verduras libres",
-            "¼ de palta",
             "1 cdta de aceite de oliva en crudo"
           ]
         },
         {
-          "hora": "22:15",
-          "nombre": "Antes de dormir",
+          "hora": "16:00",
+          "nombre": "Colación de la tarde",
           "items": [
+            "1 fruta (½ plátano va bien)",
+            "Café (como siempre; se revisa el domingo según cómo duermas)"
+          ]
+        },
+        {
+          "hora": "18:00",
+          "nombre": "Cena (antes de entrenar)",
+          "items": [
+            "2 cereales: 2 fajitas integrales, o 1½ taza de arroz o papas",
+            "3 proteínas: 150 g crudos de pollo o pescado, 1 lata de atún, o 3 huevos",
+            "Verduras cocidas, porción moderada (crudas o en exceso inflan antes de entrenar)",
+            "¼ de palta",
+            "1 cdta de aceite de oliva en crudo",
+            "Entrenas 90 min después"
+          ]
+        },
+        {
+          "hora": "21:00",
+          "nombre": "Post-entreno",
+          "items": [
+            "2 cereales: 40 g de avena + 2 galletas de arroz, o 1 pan pita",
+            "1 lácteo proteico",
             "Creatina 5 g",
             "Solo si faltó proteína: 1 scoop de whey isolate (= 2 proteínas)"
           ]
@@ -278,7 +280,7 @@
       "nombre": "Día de descanso",
       "comidas": [
         {
-          "hora": "08:30",
+          "hora": "09:00",
           "nombre": "Desayuno",
           "items": [
             "1 cereal: 1 arepa, 1 pan pita o tortilla de avena",
@@ -288,7 +290,7 @@
           ]
         },
         {
-          "hora": "11:30",
+          "hora": "11:00",
           "nombre": "Colación",
           "items": [
             "1 lácteo proteico (yogur o leche protein)",
@@ -297,7 +299,7 @@
           ]
         },
         {
-          "hora": "13:30",
+          "hora": "12:30",
           "nombre": "Almuerzo",
           "items": [
             "2 cereales: 1½ taza de arroz, quinoa o espirales integrales, o 4 papas medianas",
@@ -309,11 +311,12 @@
         },
         {
           "hora": "17:30",
-          "nombre": "Once",
+          "nombre": "Colación de la tarde (once)",
           "items": [
             "1 cereal: 40 g de avena o 2 galletas de arroz",
             "1 lácteo proteico",
-            "1 fruta"
+            "1 fruta",
+            "Café"
           ]
         },
         {
@@ -323,13 +326,7 @@
             "1 cereal: 1 fajita integral o ¾ taza de arroz",
             "3 proteínas: omelette, quiche sin masa, atún o pollo",
             "Verduras libres o crema de verduras",
-            "¼ de palta"
-          ]
-        },
-        {
-          "hora": "22:00",
-          "nombre": "Antes de dormir",
-          "items": [
+            "¼ de palta",
             "Creatina 5 g"
           ]
         }
@@ -340,7 +337,7 @@
   "reglasDelDia": [
     "1 postre chico al día está dentro del plan (mousse de quesillo, compota de manzana con canela, postre de yogur y café).",
     "Agua: ~2,8 L al día + 0,5–0,8 L por hora de entrenamiento.",
-    "Café: el último antes de las 13:30. Sin pre-entreno de noche.",
+    "Café: como siempre por ahora. El domingo se mira si el café de la tarde te está quitando sueño. Sin pre-entreno de noche.",
     "A la cama ~22:30 la noche antes de nadar.",
     "Peso en ayunas, después del baño, antes de comer: se anota en el panel.",
     "Anota en el panel lo que comes, tal como lo dirías: desayuno, almuerzo, once, antes y después de entrenar, pre-entreno, creatina.",

@@ -1,6 +1,7 @@
 #!/usr/bin/env node
-// Genera la página pública del plan (docs/index.html), el calendario descargable
-// (docs/plan-entreno.ics) y el plan expandido día por día (docs/plan-dias.json)
+// Genera la página pública del plan (docs/index.html), los calendarios descargables
+// (docs/plan-entreno.ics y docs/plan-comidas.ics, aparte para poder ocultarlo)
+// y el plan expandido día por día (docs/plan-dias.json)
 // a partir de plan.json. Sin dependencias: solo Node 18+.
 //   node generar.mjs
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
@@ -100,11 +101,14 @@ const horaLocal = (fechaIso, hhmm, sumaMin = 0) => {
   return `${fechaIso.replaceAll('-', '')}T${hh}${mm}00`;
 };
 
+const sello = (ahora) => ahora.toISOString().replace(/[-:]/g, '').replace(/\.\d+/, '');
+const cabecera = (nombre, tz) => ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//plan-entreno//ES', 'CALSCALE:GREGORIAN',
+  'METHOD:PUBLISH', `X-WR-CALNAME:${escapar(nombre)}`, `X-WR-TIMEZONE:${tz}`];
+
 export function generarIcs(plan, dias, ahora = new Date()) {
   const tz = plan.zonaHoraria;
-  const stamp = ahora.toISOString().replace(/[-:]/g, '').replace(/\.\d+/, '');
-  const l = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//plan-entreno//ES', 'CALSCALE:GREGORIAN', 'METHOD:PUBLISH',
-    `X-WR-CALNAME:${escapar(plan.titulo)}`, `X-WR-TIMEZONE:${tz}`];
+  const stamp = sello(ahora);
+  const l = cabecera(plan.titulo, tz);
   for (const d of dias) {
     for (const s of d.sesiones) {
       const titulo = `${s.opcional ? '(Opcional) ' : ''}${s.nombre}${s.metros ? ` · ${s.metros} m` : ''}`;
@@ -132,6 +136,24 @@ export function generarIcs(plan, dias, ahora = new Date()) {
   return l.map(plegar).join('\r\n') + '\r\n';
 }
 
+// Calendario aparte con las comidas del día, cada una a su hora y con sus porciones.
+export function generarIcsComidas(plan, dias, ahora = new Date()) {
+  const tz = plan.zonaHoraria;
+  const stamp = sello(ahora);
+  const l = cabecera(`${plan.titulo} · Comidas`, tz);
+  for (const d of dias) {
+    plan.tiposDia[d.tipoDia].comidas.forEach((c, i) => {
+      const extra = d.pausa && /Almuerzo|Cena/.test(c.nombre) ? ['+1 cereal (semana de pausa)'] : [];
+      l.push('BEGIN:VEVENT', `UID:${compacta(aFecha(d.fecha))}-comida${i}@${DOMINIO}`, `DTSTAMP:${stamp}`,
+        `DTSTART;TZID=${tz}:${horaLocal(d.fecha, c.hora)}`, `DTEND;TZID=${tz}:${horaLocal(d.fecha, c.hora, 30)}`,
+        `SUMMARY:${escapar(c.nombre)}`, `DESCRIPTION:${escapar([...c.items, ...extra].map((t) => `• ${t}`).join('\n'))}`,
+        'CATEGORIES:Comida', 'TRANSP:TRANSPARENT', 'END:VEVENT');
+    });
+  }
+  l.push('END:VCALENDAR');
+  return l.map(plegar).join('\r\n') + '\r\n';
+}
+
 function generarHtml(plan, dias) {
   const datos = JSON.stringify({ plan: { titulo: plan.titulo, tiposDia: plan.tiposDia, pausaComidas: plan.pausaComidas, porciones: plan.porciones, reglasDelDia: plan.reglasDelDia, semanas: plan.semanas }, dias })
     .replace(/</g, '\\u003c');
@@ -144,7 +166,8 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1]) {
   mkdirSync(SALIDA, { recursive: true });
   writeFileSync(join(SALIDA, 'plan-dias.json'), JSON.stringify({ titulo: plan.titulo, inicio: plan.inicio, dias }, null, 2));
   writeFileSync(join(SALIDA, 'plan-entreno.ics'), generarIcs(plan, dias));
+  writeFileSync(join(SALIDA, 'plan-comidas.ics'), generarIcsComidas(plan, dias));
   writeFileSync(join(SALIDA, 'index.html'), generarHtml(plan, dias));
   const n = dias.reduce((a, d) => a + d.sesiones.length, 0);
-  console.log(`Listo: ${dias.length} días, ${n} sesiones → docs/index.html, docs/plan-entreno.ics, docs/plan-dias.json`);
+  console.log(`Listo: ${dias.length} días, ${n} sesiones → docs/index.html, docs/plan-entreno.ics, docs/plan-comidas.ics, docs/plan-dias.json`);
 }

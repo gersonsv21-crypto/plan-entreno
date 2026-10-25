@@ -85,7 +85,10 @@ footer{margin-top:28px;color:var(--muted);font-size:13px}
   <div class="acciones">
     <a class="btn prim" href="https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fgersonsv21-crypto.github.io%2Fplan-entreno%2Fplan-entreno.ics" target="_blank" rel="noopener">📅 Agregar a Google Calendar</a>
     <a class="btn" href="webcal://gersonsv21-crypto.github.io/plan-entreno/plan-entreno.ics">🍎 iPhone / Apple</a>
-    <a class="btn" href="plan-entreno.ics" download>⬇️ Descargar .ics</a>
+    <a class="btn prim" href="https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fgersonsv21-crypto.github.io%2Fplan-entreno%2Fplan-comidas.ics" target="_blank" rel="noopener">🍽️ Agregar comidas (calendario aparte)</a>
+    <a class="btn" href="webcal://gersonsv21-crypto.github.io/plan-entreno/plan-comidas.ics">🍎 Comidas en iPhone</a>
+    <a class="btn" href="plan-entreno.ics" download>⬇️ .ics entreno</a>
+    <a class="btn" href="plan-comidas.ics" download>⬇️ .ics comidas</a>
     <button class="btn" type="button" onclick="window.print()">🖨️ Imprimir o guardar PDF</button>
     <button class="btn" type="button" id="tema" aria-label="Cambiar tema">◐</button>
   </div>
@@ -104,6 +107,7 @@ footer{margin-top:28px;color:var(--muted);font-size:13px}
     <section class="tarjeta"><h2>Cómo usar el calendario</h2>
       <ul class="reglas">
         <li><b>Google Calendar (recomendado):</b> botón "Agregar a Google Calendar" → "Agregar". Queda como un calendario aparte ("Plan de entrenamiento…") que aparece también en el teléfono y se actualiza solo cuando cambia el plan (Google tarda hasta un día en refrescarlo). Para quitarlo: Configuración → el calendario → "Anular suscripción".</li>
+        <li><b>Comidas:</b> botón "Agregar comidas" → "Agregar". Es un segundo calendario: en Google Calendar lo muestras u ocultas con su casilla en la lista de calendarios, sin tocar el de entrenamiento. Cada evento trae las porciones de esa comida.</li>
         <li><b>iPhone / Apple:</b> botón "iPhone / Apple" → "Suscribirse".</li>
         <li><b>El archivo .ics</b> no se "abre" para mirarlo: es para importarlo (Google Calendar en el computador → Configuración → Importar y exportar → Importar). Importado no se actualiza solo.</li>
         <li><b>PDF:</b> "Imprimir o guardar PDF" → destino "Guardar como PDF". Sale el bloque completo y los menús.</li>
