@@ -143,7 +143,6 @@
       "tipoDia": "descanso",
       "sesiones": [],
       "notas": [
-        "Fin del aprendizaje: el menú base se arma con tus comidas reales",
         "Revisión semanal en el panel (19:00)."
       ]
     },
@@ -151,7 +150,7 @@
       "fecha": "2026-11-02",
       "semana": 2,
       "diaSemana": "Lunes",
-      "fase": "Déficit",
+      "fase": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)",
       "pausa": false,
       "tipoDia": "gimnasio",
       "sesiones": [
@@ -169,7 +168,7 @@
       "fecha": "2026-11-03",
       "semana": 2,
       "diaSemana": "Martes",
-      "fase": "Déficit",
+      "fase": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)",
       "pausa": false,
       "tipoDia": "doble",
       "sesiones": [
@@ -196,7 +195,7 @@
       "fecha": "2026-11-04",
       "semana": 2,
       "diaSemana": "Miércoles",
-      "fase": "Déficit",
+      "fase": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)",
       "pausa": false,
       "tipoDia": "gimnasio",
       "sesiones": [
@@ -214,7 +213,7 @@
       "fecha": "2026-11-05",
       "semana": 2,
       "diaSemana": "Jueves",
-      "fase": "Déficit",
+      "fase": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)",
       "pausa": false,
       "tipoDia": "doble",
       "sesiones": [
@@ -241,7 +240,7 @@
       "fecha": "2026-11-06",
       "semana": 2,
       "diaSemana": "Viernes",
-      "fase": "Déficit",
+      "fase": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)",
       "pausa": false,
       "tipoDia": "gimnasio",
       "sesiones": [
@@ -259,7 +258,7 @@
       "fecha": "2026-11-07",
       "semana": 2,
       "diaSemana": "Sábado",
-      "fase": "Déficit",
+      "fase": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)",
       "pausa": false,
       "tipoDia": "descanso",
       "sesiones": [
@@ -281,11 +280,12 @@
       "fecha": "2026-11-08",
       "semana": 2,
       "diaSemana": "Domingo",
-      "fase": "Déficit",
+      "fase": "Aprendizaje: come como siempre y anota todo (el menú es solo referencia)",
       "pausa": false,
       "tipoDia": "descanso",
       "sesiones": [],
       "notas": [
+        "Fin del aprendizaje (2 semanas): el menú base se arma con tus comidas reales",
         "Revisión semanal en el panel (19:00)."
       ]
     },
@@ -462,7 +462,7 @@
           "nombre": "Natación aeróbica + técnica",
           "hora": "06:00",
           "duracionMin": 60,
-          "metros": 3000,
+          "metros": 2800,
           "detalle": "400 calentamiento · 4×100 técnica · principal 5×300 Z2 (20\" pausa) · 4×50 patada · 200 suave",
           "opcional": false
         },
@@ -507,8 +507,8 @@
           "nombre": "Natación umbral",
           "hora": "06:00",
           "duracionMin": 60,
-          "metros": 3000,
-          "detalle": "Principal 12×100 a ritmo umbral",
+          "metros": 2800,
+          "detalle": "Principal 10×100 a ritmo umbral (15-20\" pausa)",
           "opcional": false
         },
         {
@@ -570,7 +570,6 @@
       "tipoDia": "descanso",
       "sesiones": [],
       "notas": [
-        "Control 4 semanas: fotos e InBody",
         "Revisión semanal en el panel (19:00)."
       ]
     },
@@ -713,6 +712,7 @@
       "tipoDia": "descanso",
       "sesiones": [],
       "notas": [
+        "Control 4 semanas: fotos e InBody",
         "Revisión semanal en el panel (19:00)."
       ]
     },
@@ -862,8 +862,8 @@
       "fecha": "2026-12-07",
       "semana": 7,
       "diaSemana": "Lunes",
-      "fase": "Pausa: mantención (más comida)",
-      "pausa": true,
+      "fase": "Déficit",
+      "pausa": false,
       "tipoDia": "gimnasio",
       "sesiones": [
         {
@@ -879,6 +879,148 @@
     {
       "fecha": "2026-12-08",
       "semana": 7,
+      "diaSemana": "Martes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación aeróbica + técnica",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3000,
+          "detalle": "400 calentamiento · 4×100 técnica · principal 5×300 Z2 (20\" pausa) · 4×50 patada · 200 suave",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio",
+          "hora": "19:30",
+          "duracionMin": 75,
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-09",
+      "semana": 7,
+      "diaSemana": "Miércoles",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio",
+          "hora": "19:30",
+          "duracionMin": 75,
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-10",
+      "semana": 7,
+      "diaSemana": "Jueves",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación umbral",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3000,
+          "detalle": "Principal 12×100 a ritmo umbral",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio",
+          "hora": "19:30",
+          "duracionMin": 75,
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-11",
+      "semana": 7,
+      "diaSemana": "Viernes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio",
+          "hora": "19:30",
+          "duracionMin": 75,
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-12",
+      "semana": 7,
+      "diaSemana": "Sábado",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación suave (opcional)",
+          "hora": "09:00",
+          "duracionMin": 60,
+          "metros": 2000,
+          "detalle": "Técnica y Z2. Primera palanca si el peso se estanca.",
+          "opcional": true
+        }
+      ],
+      "notas": [
+        "Si nadas, come como día de gimnasio."
+      ]
+    },
+    {
+      "fecha": "2026-12-13",
+      "semana": 7,
+      "diaSemana": "Domingo",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [],
+      "notas": [
+        "Revisión semanal en el panel (19:00)."
+      ]
+    },
+    {
+      "fecha": "2026-12-14",
+      "semana": 8,
+      "diaSemana": "Lunes",
+      "fase": "Pausa: mantención (más comida)",
+      "pausa": true,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio",
+          "hora": "19:30",
+          "duracionMin": 75,
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2026-12-15",
+      "semana": 8,
       "diaSemana": "Martes",
       "fase": "Pausa: mantención (más comida)",
       "pausa": true,
@@ -904,8 +1046,8 @@
       "notas": []
     },
     {
-      "fecha": "2026-12-09",
-      "semana": 7,
+      "fecha": "2026-12-16",
+      "semana": 8,
       "diaSemana": "Miércoles",
       "fase": "Pausa: mantención (más comida)",
       "pausa": true,
@@ -922,8 +1064,8 @@
       "notas": []
     },
     {
-      "fecha": "2026-12-10",
-      "semana": 7,
+      "fecha": "2026-12-17",
+      "semana": 8,
       "diaSemana": "Jueves",
       "fase": "Pausa: mantención (más comida)",
       "pausa": true,
@@ -949,8 +1091,8 @@
       "notas": []
     },
     {
-      "fecha": "2026-12-11",
-      "semana": 7,
+      "fecha": "2026-12-18",
+      "semana": 8,
       "diaSemana": "Viernes",
       "fase": "Pausa: mantención (más comida)",
       "pausa": true,
@@ -967,8 +1109,8 @@
       "notas": []
     },
     {
-      "fecha": "2026-12-12",
-      "semana": 7,
+      "fecha": "2026-12-19",
+      "semana": 8,
       "diaSemana": "Sábado",
       "fase": "Pausa: mantención (más comida)",
       "pausa": true,
@@ -989,157 +1131,14 @@
       ]
     },
     {
-      "fecha": "2026-12-13",
-      "semana": 7,
+      "fecha": "2026-12-20",
+      "semana": 8,
       "diaSemana": "Domingo",
       "fase": "Pausa: mantención (más comida)",
       "pausa": true,
       "tipoDia": "descanso",
       "sesiones": [],
       "notas": [
-        "Revisión semanal en el panel (19:00)."
-      ]
-    },
-    {
-      "fecha": "2026-12-14",
-      "semana": 8,
-      "diaSemana": "Lunes",
-      "fase": "Déficit",
-      "pausa": false,
-      "tipoDia": "gimnasio",
-      "sesiones": [
-        {
-          "tipo": "gimnasio",
-          "nombre": "Gimnasio",
-          "hora": "19:30",
-          "duracionMin": 75,
-          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
-        }
-      ],
-      "notas": []
-    },
-    {
-      "fecha": "2026-12-15",
-      "semana": 8,
-      "diaSemana": "Martes",
-      "fase": "Déficit",
-      "pausa": false,
-      "tipoDia": "doble",
-      "sesiones": [
-        {
-          "tipo": "natacion",
-          "nombre": "Natación aeróbica + técnica",
-          "hora": "06:00",
-          "duracionMin": 60,
-          "metros": 3200,
-          "detalle": "400 calentamiento · 4×100 técnica · principal 4×400 Z2 (20\" pausa) · 4×50 patada · 200 suave",
-          "opcional": false
-        },
-        {
-          "tipo": "gimnasio",
-          "nombre": "Gimnasio",
-          "hora": "19:30",
-          "duracionMin": 75,
-          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
-        }
-      ],
-      "notas": []
-    },
-    {
-      "fecha": "2026-12-16",
-      "semana": 8,
-      "diaSemana": "Miércoles",
-      "fase": "Déficit",
-      "pausa": false,
-      "tipoDia": "gimnasio",
-      "sesiones": [
-        {
-          "tipo": "gimnasio",
-          "nombre": "Gimnasio",
-          "hora": "19:30",
-          "duracionMin": 75,
-          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
-        }
-      ],
-      "notas": []
-    },
-    {
-      "fecha": "2026-12-17",
-      "semana": 8,
-      "diaSemana": "Jueves",
-      "fase": "Déficit",
-      "pausa": false,
-      "tipoDia": "doble",
-      "sesiones": [
-        {
-          "tipo": "natacion",
-          "nombre": "Natación umbral",
-          "hora": "06:00",
-          "duracionMin": 60,
-          "metros": 3200,
-          "detalle": "Principal 3×(4×150) a ritmo umbral",
-          "opcional": false
-        },
-        {
-          "tipo": "gimnasio",
-          "nombre": "Gimnasio",
-          "hora": "19:30",
-          "duracionMin": 75,
-          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
-        }
-      ],
-      "notas": []
-    },
-    {
-      "fecha": "2026-12-18",
-      "semana": 8,
-      "diaSemana": "Viernes",
-      "fase": "Déficit",
-      "pausa": false,
-      "tipoDia": "gimnasio",
-      "sesiones": [
-        {
-          "tipo": "gimnasio",
-          "nombre": "Gimnasio",
-          "hora": "19:30",
-          "duracionMin": 75,
-          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
-        }
-      ],
-      "notas": []
-    },
-    {
-      "fecha": "2026-12-19",
-      "semana": 8,
-      "diaSemana": "Sábado",
-      "fase": "Déficit",
-      "pausa": false,
-      "tipoDia": "descanso",
-      "sesiones": [
-        {
-          "tipo": "natacion",
-          "nombre": "Natación suave (opcional)",
-          "hora": "09:00",
-          "duracionMin": 60,
-          "metros": 2000,
-          "detalle": "Técnica y Z2. Primera palanca si el peso se estanca.",
-          "opcional": true
-        }
-      ],
-      "notas": [
-        "Si nadas, come como día de gimnasio."
-      ]
-    },
-    {
-      "fecha": "2026-12-20",
-      "semana": 8,
-      "diaSemana": "Domingo",
-      "fase": "Déficit",
-      "pausa": false,
-      "tipoDia": "descanso",
-      "sesiones": [],
-      "notas": [
-        "Control 8 semanas: ¿entra la carrera? (rodilla)",
         "Revisión semanal en el panel (19:00)."
       ]
     },
@@ -1286,6 +1285,7 @@
       "tipoDia": "descanso",
       "sesiones": [],
       "notas": [
+        "Control 8 semanas: ¿entra la carrera? (rodilla)",
         "Revisión semanal en el panel (19:00)."
       ]
     },
@@ -1710,6 +1710,148 @@
     {
       "fecha": "2027-01-17",
       "semana": 12,
+      "diaSemana": "Domingo",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [],
+      "notas": [
+        "Revisión semanal en el panel (19:00)."
+      ]
+    },
+    {
+      "fecha": "2027-01-18",
+      "semana": 13,
+      "diaSemana": "Lunes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio",
+          "hora": "19:30",
+          "duracionMin": 75,
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2027-01-19",
+      "semana": 13,
+      "diaSemana": "Martes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación aeróbica + técnica",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3200,
+          "detalle": "400 calentamiento · 4×100 técnica · principal 4×400 Z2 (20\" pausa) · 4×50 patada · 200 suave",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio",
+          "hora": "19:30",
+          "duracionMin": 75,
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2027-01-20",
+      "semana": 13,
+      "diaSemana": "Miércoles",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio",
+          "hora": "19:30",
+          "duracionMin": 75,
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2027-01-21",
+      "semana": 13,
+      "diaSemana": "Jueves",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "doble",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación umbral",
+          "hora": "06:00",
+          "duracionMin": 60,
+          "metros": 3200,
+          "detalle": "Principal 3×(4×150) a ritmo umbral",
+          "opcional": false
+        },
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio",
+          "hora": "19:30",
+          "duracionMin": 75,
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2027-01-22",
+      "semana": 13,
+      "diaSemana": "Viernes",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "gimnasio",
+      "sesiones": [
+        {
+          "tipo": "gimnasio",
+          "nombre": "Gimnasio",
+          "hora": "19:30",
+          "duracionMin": 75,
+          "detalle": "Rutina de tu entrenador. Este plan solo ordena la comida alrededor del entreno."
+        }
+      ],
+      "notas": []
+    },
+    {
+      "fecha": "2027-01-23",
+      "semana": 13,
+      "diaSemana": "Sábado",
+      "fase": "Déficit",
+      "pausa": false,
+      "tipoDia": "descanso",
+      "sesiones": [
+        {
+          "tipo": "natacion",
+          "nombre": "Natación suave (opcional)",
+          "hora": "09:00",
+          "duracionMin": 60,
+          "metros": 2000,
+          "detalle": "Técnica y Z2. Primera palanca si el peso se estanca.",
+          "opcional": true
+        }
+      ],
+      "notas": [
+        "Si nadas, come como día de gimnasio."
+      ]
+    },
+    {
+      "fecha": "2027-01-24",
+      "semana": 13,
       "diaSemana": "Domingo",
       "fase": "Déficit",
       "pausa": false,
